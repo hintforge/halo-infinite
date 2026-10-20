@@ -1,0 +1,85 @@
+{
+ "format": "hintforge-collectible-map-1",
+ "guide": "halo_infinite",
+ "catalog": "extract_tools/collectible_catalog.json",
+ "status": "extract_tools/item_status.json",
+ "out": "artifacts/full_map.html",
+ "storage_key": "hf-halo-full-map-marks",
+ "image": {"file": "artifacts/shots/zeta_halo_z12.jpg", "size": [4096, 4096]},
+ "tiles": {
+  "url": "https://tiles.mapgenie.io/games/halo-infinite/zeta-halo/default-v3/{z}/{x}/{y}.jpg",
+  "headers": {"Referer": "https://mapgenie.io/"},
+  "z": 12, "x": [2032, 2047], "y": [2032, 2047]
+ },
+ "coords": {"kind": "lnglat", "x": "lng", "y": "lat", "projection": {"name": "web_mercator", "z": 12, "x0": 2032, "y0": 2032}},
+ "grid": {"x0": -1.10, "y0": 1.10, "cell": 0.10, "cols": "ABCDEFGH", "rows": 9},
+ "numbering": {"mode": "reading_order"},
+ "categories": [
+  {"category": "Spartan Core", "letter": "C", "name": "Spartan Core", "color": [110, 200, 255]},
+  {"category": "Spartan Audio Log", "letter": "U", "name": "UNSC audio log, Spartan series (Evacuation, Retaliation, Reverie, Ringfall, Scattered)", "color": [190, 150, 255]},
+  {"category": "UNSC Audio Log", "letter": "M", "name": "UNSC audio log, other series (Infinity's Approach, Outpost Intel, Recovered Files, The Prisoner)", "color": [150, 130, 230]},
+  {"category": "Banished Audio Log", "letter": "B", "name": "Banished audio log", "color": [255, 120, 90]},
+  {"category": "Propaganda Tower", "letter": "T", "name": "Propaganda tower", "color": [255, 210, 90]},
+  {"category": "Unique Weapon", "letter": "W", "name": "Unique weapon", "color": [255, 150, 200],
+   "kinds": [
+    {"name": "Weapon unlocked by an HVT kill", "when": {"field": "where", "regex": "^Rewarded from defeating"}},
+    {"cat": "Loose weapon", "name": "Loose weapon lying in the world (does not unlock anything)", "color": "rgb(255,205,228)", "shape": "square"}
+   ]},
+  {"category": "Mjolnir Armory", "letter": "L", "name": "Mjolnir armory item", "color": [120, 230, 200]},
+  {"category": "Forerunner Archive", "letter": "F", "name": "Forerunner archive", "color": [200, 200, 120]},
+  {"category": "Skull", "letter": "K", "name": "Skull", "color": [240, 240, 240]},
+  {"category": "Armor Upgrade", "letter": "A", "name": "Armor upgrade", "color": [255, 175, 90]}
+ ],
+ "fields": {"zone": "zone", "anchor": "nearest_anchor"},
+ "spoilers": [
+  {"when": {"nonzero": "enemy_tier"}, "action": "blank"},
+  {"when": {"field": "where", "regex": "(?i)\\b(hunters?|elites?|brutes?|grunts?|jackals?|enem(?:y|ies)|bosse?s?|chieftains?|wardens?|sentinels?|mission)\\b|\\bsnipers?\\b(?!\\s+rifle)"}, "action": "blank"}
+ ],
+ "detail_shows_where": false,
+ "short_names": {
+  "mapgenie:150574": "cliff pillar, far west", "mapgenie:150648": "top of the small hill",
+  "mapgenie:150649": "west of the west-gun elevator", "mapgenie:150645": "inside starship wreckage",
+  "mapgenie:150717": "Banished building, ground floor", "mapgenie:150571": "wing of the crashed starship",
+  "mapgenie:150713": "cave by the east gun",
+  "mapgenie:150852": "mountain over the starship wreckage", "mapgenie:150847": "wrecked frigate, hydra room next door",
+  "mapgenie:150803": "frigate wreckage with the Warthog", "mapgenie:150850": "base of a wreckage piece",
+  "mapgenie:150851": "downed Pelican above the cave",
+  "mapgenie:150881": "table, building south of the guns", "mapgenie:150883": "sloped building, south corner",
+  "mapgenie:150884": "armory SW of the east gun",
+  "mapgenie:151038": "S7 Flexfire Sniper, mountain", "mapgenie:154220": "Pursuit Hydra, tree island (grapple)",
+  "mapgenie:151037": "Volatile Skewer, SE of the guns",
+  "mapgenie:150646": "Infinity Armor Emblem", "mapgenie:150647": "Warmaster's Prize BR coating",
+  "mapgenie:150904": "Artifact VI, river at map edge"
+ },
+ "guide_entries": {
+  "files": ["optional_zones/*_collectibles.md", "items/collectibles.md"],
+  "tier_regex": "enemy-tier:\\s*(\\d)",
+  "rows": [
+   {"regex": "\\|\\s*(?P<code>[A-Z]\\d+)\\s*\\|\\s*[^|]*\\|\\s*[^|]*\\|\\s*(?P<name>[^|]*)\\|\\s*(?P<gw>[^|]*)\\|\\s*(?P<tags>\\[.*\\])\\s*\\|\\s*$", "why": "an enemy"},
+   {"regex": "\\|\\s*(?P<code>[A-Z]\\d+)\\s*\\|\\s*[^|]*\\|\\s*(?P<gw>[^|]*)\\|\\s*(?P<name>[^|]*)\\|\\s*(?P<tags>\\[.*\\])\\s*\\|\\s*$", "why": "a mission", "tier": 1, "gw_prefix": "Inside a mission: ", "name_strip": "\\s*\\([^)]*\\)\\s*$"}
+  ],
+  "notes": {"regex": "-\\s+\\*\\*(?P<code>[A-Z]\\d+)\\b[^*]*:\\*\\*\\s*(?P<note>.*?)\\s*(?P<tags>\\[spoiler:.*\\])?\\s*$", "label": "How to find it (from map-site screenshots)"}
+ },
+ "landmarks": {
+  "file": "archive/research_raw/2026-10-06_mapgenie_zeta_halo_locations.json",
+  "kinds": [
+   {"id": 4639, "kind": "fob", "label": "FOBs", "letter": "F", "fill": "#f2b73a", "txt": "#241a02", "title": "FOB (fast-travel base)"},
+   {"id": 4640, "kind": "outpost", "label": "Outposts", "letter": "O", "fill": "#e0603a", "txt": "#fff", "title": "Banished facility"},
+   {"id": 4690, "kind": "forerunner", "label": "Forerunner sites", "letter": "S", "fill": "#5aa8ff", "txt": "#04101f", "title": "Forerunner site"}
+  ],
+  "detail": {"regex": "(\\d+) Valor", "template": "{n} Valor on {word}", "word": {"contains": "conquest", "then": "conquest", "else": "destruction"}}
+ },
+ "views": [
+  {"label": "Whole map", "box": {"grid_pad": 120}},
+  {"label": "Island", "box": {"coords": [-0.92, 0.62, -0.48, 0.38]}}
+ ],
+ "start_view": "Whole map",
+ "zoom_limits": [140, 7000],
+ "style": {"sidebar_width": 340, "map_bg": "#161f2b", "code_min_width": 38},
+ "text": {
+  "title": "Halo Infinite collectible map",
+  "subtitle": "Real map, whole-map grid A-H (west to east) by 1-9 (north to south). Each item has a code: letter = type, number = reading order. Green ring and tick = taken. Round pink W = weapon unlocked by an HVT kill; light-pink square W = loose weapon lying in the world. Scroll or pinch to zoom, drag to pan. Click a dot to see what it is; mark it taken in the side panel (Mark taken button or the list tick boxes).",
+  "credit": "Item positions: MapGenie public map data (2026-10-06); base picture: the game's own map art, from MapGenie's tiles. Cell letters are positions on that map, not something the game prints. High Value Targets are left off."
+ },
+ "test": {"folded_words": [], "hidden_words": [], "min_nopos_rows": 0}
+}

@@ -1,0 +1,22 @@
+{
+  "game": "Halo Infinite",
+  "endpoint_policy": "local-first",
+  "artifacts": [
+    {
+      "name": "Full collectible map",
+      "file": "full_map.html",
+      "kind": "collectible-map",
+      "created": "2026-10-17",
+      "published_url": null,
+      "local_only": false,
+      "spoiler_class": "per collectible_map.json spoiler rules",
+      "sources": [
+        "extract_tools/collectible_catalog.json",
+        "extract_tools/item_status.json",
+        "extract_tools/collectible_map.json"
+      ],
+      "writes_state": "extract_tools/item_status.json",
+      "notes": "Built by the Hintforge reader's collectible-map tool. Taken marks save to item_status.json through the launcher's save helper; the open page re-reads that file."
+    }
+  ]
+}
