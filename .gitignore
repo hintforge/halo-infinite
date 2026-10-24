@@ -38,6 +38,7 @@
 !artifacts/shots/zeta_halo_z12.jpg
 !extract_tools/collectible_map.json
 !extract_tools/collectible_catalog.json
+!extract_tools/collectible_catalog_split.json
 
 # --- Declared vector-extensions (one !<ext>/** per manifest entry) ---
 !puzzles/**

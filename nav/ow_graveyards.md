@@ -99,14 +99,14 @@ The codes (type letter plus number) and cells below are the ones in `../optional
 | B17 | E6 | Banished log, armory southwest of the east gun (Loyalties 7/9) |
 | U17 | E6 | UNSC log, wrecked frigate, hydra room next door |
 | U16 | D6 | UNSC log, mountain over the wreckage |
-| W11 | D6 | S7 Flexfire Sniper, same spot as U16 |
+| W5 | D6 | S7 Flexfire Sniper, same spot as U16 |
 | U18 | E6 | UNSC log, downed Pelican above the cave |
 | U22, U23 | E7 | UNSC logs, frigate with the Warthog and wreckage base |
 | T21 | D6 | Propaganda Tower, northwest |
 | T23 | E6 | Propaganda Tower, east gun |
 | T28 | D7 | Propaganda Tower, south edge |
 
-Rows the map site lists on the island that are not in the table above: C20 (C6, far-west cliff pillar core), C31 (D7, core inside the starship wreckage), T22 (D6) and T26 (C7) towers, W12 (E6, Pursuit Hydra, tree island), W13 (F6, Volatile Skewer), L20 (D7, Infinity Armor Emblem) and F5 (C7, Artifact VI). The game counts 5 cores and 4 towers on the island against 7 and 5 on the map site, so some of those rows probably belong to a neighbouring zone. With the table rows, the island's in-game counters read cores 5/5, UNSC logs 5/5, Banished logs 3/3, locker 1/1, towers 4/4. [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1 · confidence: medium · model analysis -- 2026-10-13]
+Rows the map site lists on the island that are not in the table above: C20 (C6, far-west cliff pillar core), C31 (D7, core inside the starship wreckage), T22 (D6) and T26 (C7) towers, W6 (E6, Pursuit Hydra, tree island), W7 (F6, Volatile Skewer), L20 (D7, Infinity Armor Emblem) and F5 (C7, Artifact VI). The game counts 5 cores and 4 towers on the island against 7 and 5 on the map site, so some of those rows probably belong to a neighbouring zone. With the table rows, the island's in-game counters read cores 5/5, UNSC logs 5/5, Banished logs 3/3, locker 1/1, towers 4/4. [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1 · confidence: medium · model analysis -- 2026-10-13]
 
 **Boss arena location (inference):** the map site's data puts the Pelican Down mission marker at about (-0.689, 0.510) and the Tovarus and Hyperius spawn points at about (-0.693, 0.507) and (-0.689, 0.505), the same spot as the island's middle objective marker, so the arena sits in grid E6 at the wrecked frigate (single third-party source). The boss guides place a rocket launcher and a Hydra in a room Tovarus enters; that is probably the frigate room next to the UNSC log U17 (inference, not confirmed). [spoiler: progression · enemy-tier: 1 · puzzle-tier: 1 · confidence: medium · class:live-observation]
 

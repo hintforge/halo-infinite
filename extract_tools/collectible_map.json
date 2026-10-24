@@ -1,7 +1,7 @@
 {
  "format": "hintforge-collectible-map-1",
  "guide": "halo_infinite",
- "catalog": "extract_tools/collectible_catalog.json",
+ "catalog": "extract_tools/collectible_catalog_split.json",
  "status": "extract_tools/item_status.json",
  "out": "artifacts/full_map.html",
  "storage_key": "hf-halo-full-map-marks",
@@ -15,16 +15,13 @@
  "grid": {"x0": -1.10, "y0": 1.10, "cell": 0.10, "cols": "ABCDEFGH", "rows": 9},
  "numbering": {"mode": "reading_order"},
  "categories": [
-  {"category": "Spartan Core", "letter": "C", "name": "Spartan Core", "color": [110, 200, 255]},
+  {"category": "Spartan Core", "letter": "C", "name": "Spartan Core", "color": [110, 200, 255], "shape": "hexagon"},
   {"category": "Spartan Audio Log", "letter": "U", "name": "UNSC audio log, Spartan series (Evacuation, Retaliation, Reverie, Ringfall, Scattered)", "color": [190, 150, 255]},
   {"category": "UNSC Audio Log", "letter": "M", "name": "UNSC audio log, other series (Infinity's Approach, Outpost Intel, Recovered Files, The Prisoner)", "color": [150, 130, 230]},
   {"category": "Banished Audio Log", "letter": "B", "name": "Banished audio log", "color": [255, 120, 90]},
   {"category": "Propaganda Tower", "letter": "T", "name": "Propaganda tower", "color": [255, 210, 90]},
-  {"category": "Unique Weapon", "letter": "W", "name": "Unique weapon", "color": [255, 150, 200],
-   "kinds": [
-    {"name": "Weapon unlocked by an HVT kill", "when": {"field": "where", "regex": "^Rewarded from defeating"}},
-    {"cat": "Loose weapon", "name": "Loose weapon lying in the world (does not unlock anything)", "color": "rgb(255,205,228)", "shape": "square"}
-   ]},
+  {"category": "HVT Weapon", "letter": "H", "name": "HVT kill reward: weapon you keep for good", "title": "Weapon unlocked by an HVT kill", "color": [225, 45, 75]},
+  {"category": "Unique Weapon", "letter": "W", "name": "Loose weapon lying in the world (does not unlock anything)", "title": "Loose weapon lying in the world", "color": [175, 185, 200], "shape": "square"},
   {"category": "Mjolnir Armory", "letter": "L", "name": "Mjolnir armory item", "color": [120, 230, 200]},
   {"category": "Forerunner Archive", "letter": "F", "name": "Forerunner archive", "color": [200, 200, 120]},
   {"category": "Skull", "letter": "K", "name": "Skull", "color": [240, 240, 240]},
@@ -78,7 +75,7 @@
  "style": {"sidebar_width": 340, "map_bg": "#161f2b", "code_min_width": 38},
  "text": {
   "title": "Halo Infinite collectible map",
-  "subtitle": "Real map, whole-map grid A-H (west to east) by 1-9 (north to south). Each item has a code: letter = type, number = reading order. Green ring and tick = taken. Round pink W = weapon unlocked by an HVT kill; light-pink square W = loose weapon lying in the world. Scroll or pinch to zoom, drag to pan. Click a dot to see what it is; mark it taken in the side panel (Mark taken button or the list tick boxes).",
+  "subtitle": "Real map, whole-map grid A-H (west to east) by 1-9 (north to south). Each item has a code: letter = type, number = reading order. Green ring and tick = taken. Red round H = weapon you keep for good after killing a High Value Target; grey square W = loose weapon lying in the world (unlocks nothing). Scroll or pinch to zoom, drag to pan. Click a dot to see what it is; mark it taken in the side panel (Mark taken button or the list tick boxes).",
   "credit": "Item positions: MapGenie public map data (2026-10-06); base picture: the game's own map art, from MapGenie's tiles. Cell letters are positions on that map, not something the game prints. High Value Targets are left off."
  },
  "test": {"folded_words": [], "hidden_words": [], "min_nopos_rows": 0}
