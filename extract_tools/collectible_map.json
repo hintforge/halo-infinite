@@ -57,15 +57,6 @@
   ],
   "notes": {"regex": "-\\s+\\*\\*(?P<code>[A-Z]\\d+)\\b[^*]*:\\*\\*\\s*(?P<note>.*?)\\s*(?P<tags>\\[spoiler:.*\\])?\\s*$", "label": "How to find it (from map-site screenshots)"}
  },
- "landmarks": {
-  "file": "archive/research_raw/2026-10-06_mapgenie_zeta_halo_locations.json",
-  "kinds": [
-   {"id": 4639, "kind": "fob", "label": "FOBs", "letter": "F", "fill": "#f2b73a", "txt": "#241a02", "title": "FOB (fast-travel base)"},
-   {"id": 4640, "kind": "outpost", "label": "Outposts", "letter": "O", "fill": "#e0603a", "txt": "#fff", "title": "Banished facility"},
-   {"id": 4690, "kind": "forerunner", "label": "Forerunner sites", "letter": "S", "fill": "#5aa8ff", "txt": "#04101f", "title": "Forerunner site"}
-  ],
-  "detail": {"regex": "(\\d+) Valor", "template": "{n} Valor on {word}", "word": {"contains": "conquest", "then": "conquest", "else": "destruction"}}
- },
  "views": [
   {"label": "Whole map", "box": {"grid_pad": 120}},
   {"label": "Island", "box": {"coords": [-0.92, 0.62, -0.48, 0.38]}}
