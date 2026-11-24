@@ -35,7 +35,7 @@ Three sub-types: UNSC, Banished, Spartan -- **104 in total: 37 UNSC / 28 Banishe
 **Still missing after P3:** per-mission log counts for The Command Spire, The Road and Silent Auditorium; no source was found. Nothing was found for the Conservatory either (P1 recorded no collectibles there). The Pelican Down locker holds the Warmaster's Prize BR coating (a multiplayer cosmetic; see Mjolnir Armor Lockers below). [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1 · confidence: medium · Single source -- verify · class:editorial-en for the locker contents (GamerGuides)]
 
 **Where each one is (per region):** every overworld log, locker, artifact and Spartan Core site, grouped by nearest FOB or outpost, is in `../optional_zones/<zone>_collectibles.md` (ow_lockdown, ow_connections, ow_graveyards, ow_reformation). Mission-interior logs stay in the table above and the `../sections/` mission files. [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1 · confidence: medium]
-_source: MapGenie 2026-10-06 · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
+_source: MapGenie 2026-10-06 · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 2 · spoiler: late-game_
 
 ## Mjolnir Armor Lockers
 
@@ -52,7 +52,7 @@ See `upgrades.md` -- documented there because their primary function is the equi
 ## Item codes and map grid
 
 Every collectible marker on the map site except the 15 High Value Targets has a **code**: a type letter plus a number, counted in map reading order (north to south, then west to east) over the whole map, so a code names the same item on every map page and in every region file (271 coded markers). Each marker also has a **grid cell**: columns A-H run west to east and rows 1-9 north to south, in 0.1-unit cells of the map site's coordinates (the in-game TacMap prints no grid; the definition is in `../optional_zones/spartan_cores_plot.md`). A marker outside the A-H columns reads "west of A3" or "east of H4". Both appear as the Code and Cell columns of every row in `../optional_zones/<zone>_collectibles.md`; Skull codes are also in `skulls.md` and core codes in `../optional_zones/spartan_cores_plot.md`. FOB, outpost and Forerunner-site cells: `../optional_zones/index.md` "Landmarks by grid cell". What the spot looks like on arrival (from the map site's player screenshots, 185 items): "Approach notes" at the end of each region file, and the mission-bound ones at the end of this section. [spoiler: none · enemy-tier: 0 · puzzle-tier: 0 · confidence: high]
-_source: model analysis -- 2026-10-13 from the MapGenie pull of 2026-10-06 · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
+_source: model analysis -- 2026-10-13 from the MapGenie pull of 2026-10-06 · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
 
 Region columns are the zone the nearest-anchor rule gave each marker (a marker near a border may belong to the neighbouring region); "Mission-bound" items sit in mission files, not in a region file. [spoiler: none · enemy-tier: 0 · puzzle-tier: 0 · confidence: medium]
 
@@ -100,7 +100,7 @@ The U and M codes are both UNSC audio logs (see "Audio logs" above: UNSC and Spa
 The story hands over the armor-upgrade rows (Grappleshot A1, Shield Core A2, Drop Wall A3, Thruster A4, Threat Detector A5) and the Recovered Files logs; they are never missables (see `../sections/missables.md`). A1 (Grappleshot) sits in the region file `../optional_zones/ow_connections_collectibles.md` at "west of A3", the Warship Gbraakon spot, because the nearest-anchor rule filed it under FOB Alpha. [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1 · confidence: medium · model analysis -- 2026-10-13]
 
 **Mission-bound approach notes (from map-site screenshots, read 2026-10-13).** What each mission-bound item's spot looks like, in my own words; hand a note out only when the player asks for the exact spot, and only once the mission's own spoiler tier allows it. Not every item has screenshots. [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1 · confidence: low · Single source -- verify · class:screenshot-reading]
-_source: map-site player screenshots on each marker, read 2026-10-13 · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
+_source: map-site player screenshots on each marker, read 2026-10-13 · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 2 · spoiler: late-game_
 
 - **U3 (west of A3), UNSC audio log, Warship Gbraakon (z01):** a long, dim cargo bay with a tiled metal floor and red-lit walls. Tan equipment cases are stacked against the back wall, and the item is a small blue-edged tablet standing against the front of the lowest case, a little right of centre. [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1 · confidence: medium · class:screenshot-reading]
 - **M3 (A3), UNSC audio log, Foundation (z02):** a dim blue chamber with a raised metal platform on a hexagon-patterned floor and hanging machinery overhead. The log lies on the platform floor against the low back wall, left of a tall dark pedestal with a glowing blue panel at the far end. [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1 · confidence: medium · class:screenshot-reading]

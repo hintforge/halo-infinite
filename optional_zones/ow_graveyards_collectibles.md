@@ -55,7 +55,7 @@ Location text is MapGenie's wording, condensed; each row links its marker. Clear
 ## Approach notes (from map-site screenshots)
 
 What the spot looks like on arrival, read 2026-10-13 from the player screenshots the map site attaches to each marker and put in my own words. Hand a note out only when the player asks for the exact spot. A shot may show the approach rather than the item, and some markers have no screenshots, so a missing code here means no note, not a missing item. [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1 · confidence: low · Single source -- verify · class:screenshot-reading]
-_source: map-site player screenshots on each marker, read 2026-10-13 · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
+_source: map-site player screenshots on each marker, read 2026-10-13 · capture: web_fetch · enemy-tier: 1 · puzzle-tier: 1 · spoiler: progression_
 
 - **C20 (C6), Spartan Core, anchor Gun Battery:** the one screenshot is the drop-in view, not the core: looking straight down a sheer wall of smooth grey slabs onto a narrow ledge edged with a hexagon plate and rust-orange stone. A gap in the wall on the right shows a mossy hexagon-tiled patch far below; the core is not clearly in frame. [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1 · confidence: low · class:screenshot-reading]
 - **C21 (D6), Spartan Core, anchor Gun Battery:** a distant view across a gap to a grassy knoll topped with tall pines, with a smooth tower of hexagon columns on the left. The core is a small crate with a green tint at the top of the knoll's layered brown rock, beside a dark box; the item is tiny at this range. [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1 · confidence: low · class:screenshot-reading]

@@ -54,7 +54,7 @@ Into the Command Spire via edge `(ow_reformation, z10_nexus)` -- cross the exten
 - **Black Eye Skull (P3)** -- in the southern part of the region, a small cave behind a tall waterfall (pool at the top, wrecked vehicle in front, opening on the right about halfway up); grapple to the rock shelf and crouch through. Not tied to a mission, so it is collectable now or postgame. Full detail: `../items/skulls.md`. [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1 · category: easter-egg · confidence: high · Confirmed: 4 sources, 1 language]
 - **Bridge bypass** -- Halopedia says you can skip extending the bridge by flying a Banshee or Wasp across, or by fast travel. [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1 · confidence: medium · Single source -- verify · class:community-wiki]
 - **Every collectible site in this region** -- `../optional_zones/ow_reformation_collectibles.md` (MapGenie, 2026-10-06): each row carries its item code and grid cell (A-H by 1-9; the Black Eye Skull is K11 in F8), and most items with map-site screenshots have an approach note at the end of that file. FOB and outpost cells: `../optional_zones/index.md` "Landmarks by grid cell". [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1 · confidence: medium]
-_source: MapGenie 2026-10-06 · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
+_source: MapGenie 2026-10-06 · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 2 · spoiler: late-game_
 
 ## Common confusions
 
