@@ -3,7 +3,7 @@
 **status:** research-integrated <!-- scaffold | research-integrated | live-observed | reconciled -->
 **last_reconciled:** 2026-11-24
 
-_source: deep-research cascade 2026-09-28 (P1; Shield Core + Drop Wall/Thruster location rows reconciled against P2 2026-09-28) · capture: web_fetch · enemy-tier: 2 · puzzle-tier: 1 · spoiler: late-game_
+_source: deep-research cascade 2026-09-28 (P1; Shield Core + Drop Wall/Thruster location rows reconciled against P2 2026-09-28) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
 
 Equipment is picked up from dead Spartans or their armor during story missions. Each of the 5 pieces has 4 purchasable ranks bought strictly in order (no skipping); costs rise 1/2/3/3 cores per piece (9 cores to max one, 45 total -- see `upgrades.md`). [spoiler: none · enemy-tier: 0 · puzzle-tier: 0 · confidence: high · Confirmed: 6 sources, 2 languages]
 

@@ -6,7 +6,7 @@
 
 Per-site list of every collectible marker MapGenie places in this region, grouped by the nearest FOB, outpost or landmark (parent zone `ow_reformation` in `../nav/architecture.md`). Use it to answer "what is near FOB X" or "what's left around here" -- give the category and anchor first and the exact spot only when the player asks for it (puzzle-tier 1 = hint before answer). Totals and achievements: `../items/collectibles.md`, `../items/skulls.md`, `../items/upgrades.md`, `../items/weapons.md`.
 
-_source: MapGenie interactive map (mapgenie.io/halo-infinite/maps/zeta-halo) 2026-10-06 · capture: web_fetch · confidence: medium (single third-party source; region placement is derived from map coordinates -- nearest named anchor -- so items near a region border may belong to the neighbouring region) · category: mainline · enemy-tier: 1 · puzzle-tier: 2 · spoiler: late-game_
+_source: MapGenie interactive map (mapgenie.io/halo-infinite/maps/zeta-halo) 2026-10-06 · capture: web_fetch · confidence: medium (single third-party source; region placement is derived from map coordinates -- nearest named anchor -- so items near a region border may belong to the neighbouring region) · category: mainline · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
 
 **95 markers:** Spartan Core 14, Skull 3, Mjolnir Armory 13, UNSC Audio Log 10, Banished Audio Log 8, Spartan Audio Log 16, Forerunner Archive 2, Propaganda Tower 12, Unique Weapon 9, High Value Target 8. [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1 · confidence: medium]
 

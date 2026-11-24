@@ -8,7 +8,7 @@
 **status:** research-integrated <!-- scaffold | research-integrated | live-observed | reconciled -->
 **last_reconciled:** 2026-11-24
 
-_source: deep-research cascade 2026-09-28 (P2 pointers; P3 strategy) · capture: web_fetch. Aggregated from the corpus claims carrying `entity: tovarus_hyperius` (see See also) -- not composed from the raw research result. · enemy-tier: 3 · puzzle-tier: 3 · spoiler: story_
+_source: deep-research cascade 2026-09-28 (P2 pointers; P3 strategy) · capture: web_fetch. Aggregated from the corpus claims carrying `entity: tovarus_hyperius` (see See also) -- not composed from the raw research result. · enemy-tier: 1 · puzzle-tier: 0 · spoiler: progression_
 
 **Why this file exists (promoted at P3, model analysis -- 2026-09-28):** P2 named this pair the strongest promotion candidate; P3 found six-plus dedicated boss guides, a unique arena-reset rule, an achievement, and the pair are the only occupants of a zone with no FOB and no fast travel. One combined file, not two, because they are fought as a unit and every tactic is about the pair. The P3 result recommended the same.
 
@@ -41,7 +41,7 @@ Full entry: `../achievements.md`.
 
 ## Fight detail (doctor pass 2026-10-11)
 
-_source: web research 2026-10-11, pages opened: samurai-gamers.com/halo-infinite/tovarus-and-hyperius-boss-guide/, samurai-gamers.com/halo-infinite/mission-8-pelican-down-walkthrough/, gamerguides.com/halo-infinite/guide/bosses/main-story/how-to-defeat-tovarus-and-hyperius, gameshedge.com/halo-infinite-boss-battles-guide/ (short summary page). Launch-era guides that may echo each other; medium confidence. Quotes are as the pages word them. · enemy-tier: 3 · puzzle-tier: 3 · spoiler: story_
+_source: web research 2026-10-11, pages opened: samurai-gamers.com/halo-infinite/tovarus-and-hyperius-boss-guide/, samurai-gamers.com/halo-infinite/mission-8-pelican-down-walkthrough/, gamerguides.com/halo-infinite/guide/bosses/main-story/how-to-defeat-tovarus-and-hyperius, gameshedge.com/halo-infinite-boss-battles-guide/ (short summary page). Launch-era guides that may echo each other; medium confidence. Quotes are as the pages word them. · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
 
 - **How it starts:** Gamer Guides: the fight "will begin as soon as you reach their position in the marshy land beneath the AA guns that you've just destroyed", and "Hyperius will begin the fight in a modified Brute Chopper." Samurai Gamers' walkthrough: "Head back to the Pelican and prepare to battle Tovarus and Hyperius." [spoiler: progression · enemy-tier: 1 · puzzle-tier: 0 · confidence: medium · Confirmed: 2 sources, 1 language · class:community-guide · entity: tovarus_hyperius]
 - **Landmarks:** rocks and treelines for cover (Samurai Gamers); "Tovarus ... will be moving between the platforms in the middle of the area" and you can go "up the wrecked buildings surrounding the platforms in the middle or the hill to the south" (Samurai Gamers walkthrough); Tovarus enters "the broken ship located on the east" and later appears "on a platform located on the west side" (Samurai Gamers boss page); Gamer Guides: "the ruins of one of the nearby ships". GamesHedge: "plenty of shipwrecks", a Warthog with a gunner turret, and explosive barrels. [spoiler: progression · enemy-tier: 1 · puzzle-tier: 0 · confidence: medium · Confirmed: 3 sources, 1 language · class:community-guide · entity: tovarus_hyperius]

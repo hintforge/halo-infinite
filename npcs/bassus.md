@@ -8,7 +8,7 @@
 **status:** research-integrated <!-- scaffold | research-integrated | live-observed | reconciled -->
 **last_reconciled:** 2026-11-24
 
-_source: deep-research cascade 2026-09-28 (P2 name; P3 confirmation and strategy) · capture: web_fetch. Aggregated from the corpus claims carrying `entity: bassus` -- not composed from the raw research result. · enemy-tier: 1 · puzzle-tier: 1 · spoiler: progression_
+_source: deep-research cascade 2026-09-28 (P2 name; P3 confirmation and strategy) · capture: web_fetch. Aggregated from the corpus claims carrying `entity: bassus` -- not composed from the raw research result. · enemy-tier: 1 · puzzle-tier: 0 · spoiler: progression_
 
 **Why this file exists (promoted at P3, model analysis -- 2026-09-28):** P2 had one line and one source for the name; P3 confirmed it in four sources and gave a paragraph of strategy, which meets the named-individual rule's "paragraph of strategy detail" test. The P3 result recommended only "upgrade the name to confirmed"; promoting him is this session's call.
 
@@ -38,7 +38,7 @@ Jump as the hammer lands, grapple away to keep your distance, strip his shield w
 
 ## Web research (2026-10-11)
 
-_source: web research 2026-10-11 · capture: web_fetch (pages opened: samurai-gamers.com/halo-infinite/bassus-boss-guide/, gamerguides.com/halo-infinite/guide/bosses/main-story/how-to-defeat-bassus; ggrecon.com returned HTTP 410) · the two opened guides are both launch-era walkthroughs and may echo each other, so treated as one weak-to-medium source. · enemy-tier: 1 · puzzle-tier: 0 · spoiler: progression_
+_source: web research 2026-10-11 · capture: web_fetch (pages opened: samurai-gamers.com/halo-infinite/bassus-boss-guide/, gamerguides.com/halo-infinite/guide/bosses/main-story/how-to-defeat-bassus; ggrecon.com returned HTTP 410) · the two opened guides are both launch-era walkthroughs and may echo each other, so treated as one weak-to-medium source. · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
 
 - Tight start: "You are fighting the boss in the tight space so it's challenging to evade his hammer at the beginning." Samurai Gamers' answer: use the Grappleshot to lure him from the control room down to the bottom room of the bay, then go to the upper platform beside the control room and let him run up the ramps to you. [spoiler: progression · enemy-tier: 1 · puzzle-tier: 0 · confidence: medium · Single source -- verify · class:community-guide · entity: bassus · entity-status: hostile]
 - He speeds up as his shield drops, so shock weapons first (Shock Rifle or Disruptor); then the Skewer or another power weapon plus Dynamo grenades; keep shooting the helmet until it falls off. Loadout listed: shock weapon + Dynamo grenades, Skewer/power weapon, Grappleshot. [spoiler: progression · enemy-tier: 1 · puzzle-tier: 0 · confidence: medium · Single source -- verify · class:community-guide · entity: bassus]

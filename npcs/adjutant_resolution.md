@@ -8,7 +8,7 @@
 **status:** research-integrated <!-- scaffold | research-integrated | live-observed | reconciled -->
 **last_reconciled:** 2026-11-24
 
-_source: deep-research cascade 2026-09-28 (P2) · capture: web_fetch. Aggregated from the corpus claims carrying `entity: adjutant_resolution` (see See also) -- not composed from the raw research result. · enemy-tier: 3 · puzzle-tier: 3 · spoiler: story_
+_source: deep-research cascade 2026-09-28 (P2) · capture: web_fetch. Aggregated from the corpus claims carrying `entity: adjutant_resolution` (see See also) -- not composed from the raw research result. · enemy-tier: 1 · puzzle-tier: 0 · spoiler: progression_
 
 **Why this file exists (promoted at P2, model analysis -- 2026-09-28):** P1 kept Adjutant Resolution on the generic `enemy` vector because it had only a one-line mention. P2 still gives almost no strategy detail, but it shows he recurs across three missions (Spire, The Command Spire, Silent Auditorium) with a changing relationship -- the "recurring named antagonist" case in the named-individual rule, which a player will ask about by name. P3 then supplied strategy for both fights (two sources), so the Combat section below now carries weakness, hazards and recommended weapons.
 
@@ -43,7 +43,7 @@ None bound to him in the corpus.
 
 ## Fight detail (doctor pass 2026-10-11)
 
-_source: web research 2026-10-11, pages opened: samurai-gamers.com/halo-infinite/adjutant-resolution-boss-guide/ (1st encounter), samurai-gamers.com/halo-infinite/adjutant-resolution-part-2-boss-guide/ (2nd), diamondlobby.com/halo/infinite/how-to-beat-adjutant-resolution/, gamerguides.com/halo-infinite/guide/bosses/main-story/how-to-defeat-adjutant-resolution. The Diamond Lobby and Gamer Guides pages do not label which encounter they describe; their starts (follow the orb, activate the Weapon; observation-platform terminal) match fight 1 -- that reading is the model's. All launch-era guides that may echo each other; medium confidence. Quotes are as the pages word them. · enemy-tier: 3 · puzzle-tier: 3 · spoiler: story_
+_source: web research 2026-10-11, pages opened: samurai-gamers.com/halo-infinite/adjutant-resolution-boss-guide/ (1st encounter), samurai-gamers.com/halo-infinite/adjutant-resolution-part-2-boss-guide/ (2nd), diamondlobby.com/halo/infinite/how-to-beat-adjutant-resolution/, gamerguides.com/halo-infinite/guide/bosses/main-story/how-to-defeat-adjutant-resolution. The Diamond Lobby and Gamer Guides pages do not label which encounter they describe; their starts (follow the orb, activate the Weapon; observation-platform terminal) match fight 1 -- that reading is the model's. All launch-era guides that may echo each other; medium confidence. Quotes are as the pages word them. · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
 
 **Fight 1 (Spire)**
 - **Start:** Gamer Guides: a cutscene at the observation-platform terminal, "at the end of which the boss fight with Adjutant Resolution begins." Samurai Gamers: "Start the battle targeting the gun arms of the boss." [spoiler: progression · enemy-tier: 1 · puzzle-tier: 0 · confidence: medium · Confirmed: 2 sources, 1 language · class:community-guide · entity: adjutant_resolution]

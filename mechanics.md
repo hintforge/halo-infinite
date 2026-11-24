@@ -26,7 +26,7 @@ _source: search summaries of Twinfinite "how to get more ammo" (twinfinite.net/g
 
 ## Damage types and enemy matchups (web research 2026-10-09)
 
-_source: web research 2026-10-09: Halopedia Weapon_types (https://www.halopedia.org/Weapon_types), Kig-Yar/Gameplay, Jiralhanae/Gameplay, Sangheili/Gameplay, Unggoy/Gameplay, Mgalekgolo/Gameplay, Shock_Rifle, Disruptor, Skewer, Sentinel_beam/Gameplay; samurai-gamers.com/halo-infinite/weapon-damage-types; gfinityesports.com/article/best-weapons-campaign; Twinfinite, Windows Central, Gamer Guides and Halopedia Regulator_Sentinel / Sentinel_launcher via search summary only (pages 403 or not fetched) · capture: web_fetch. Halopedia mixes campaign and multiplayer; mechanism only, no numbers. · enemy-tier: 1 · puzzle-tier: 0 · spoiler: progression_
+_source: web research 2026-10-09: Halopedia Weapon_types (https://www.halopedia.org/Weapon_types), Kig-Yar/Gameplay, Jiralhanae/Gameplay, Sangheili/Gameplay, Unggoy/Gameplay, Mgalekgolo/Gameplay, Shock_Rifle, Disruptor, Skewer, Sentinel_beam/Gameplay; samurai-gamers.com/halo-infinite/weapon-damage-types; gfinityesports.com/article/best-weapons-campaign; Twinfinite, Windows Central, Gamer Guides and Halopedia Regulator_Sentinel / Sentinel_launcher via search summary only (pages 403 or not fetched) · capture: web_fetch. Halopedia mixes campaign and multiplayer; mechanism only, no numbers. · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
 
 **Damage types** [spoiler: none · enemy-tier: 0 · puzzle-tier: 0 · confidence: medium · class:community-wiki + editorial-en]
 - Kinetic: strong on unshielded health and headshots; weak on energy shields; an enemy's hand-held shield is almost impervious to it.
@@ -132,7 +132,7 @@ Named bosses/commanders that do **not** carry a per-entity `npcs/` file (one-lin
 
 ### Enemy reinforcements at Banished outposts (web research 2026-10-09)
 
-_source: web research 2026-10-09 (Gamerguides outpost pages, Halopedia Banished outpost and Forward Operating Base pages; six searches and six fetches found no source on the question below; only playing it settles it) · enemy-tier: 1 · puzzle-tier: 0 · spoiler: progression_
+_source: web research 2026-10-09 (Gamerguides outpost pages, Halopedia Banished outpost and Forward Operating Base pages; six searches and six fetches found no source on the question below; only playing it settles it) · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
 - Tip from a search summary (Twinfinite, not fetched): the plasma cannons on enemy reinforcement dropships can be shot off and picked up to use. [spoiler: none · enemy-tier: 0 · puzzle-tier: 0 · confidence: low · Single source (search summary) -- verify · class:community-guide]
 
 - **Do destroyed dropships stop more reinforcements?** No source found says so, and none says the opposite. [Unconfirmed -- no source] [spoiler: none · enemy-tier: 0 · puzzle-tier: 0 · confidence: low]

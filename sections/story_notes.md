@@ -3,7 +3,7 @@
 **status:** research-integrated <!-- scaffold | research-integrated | live-observed | reconciled -->
 **last_reconciled:** 2026-11-24
 
-_source: deep-research cascade 2026-09-28 · capture: web_fetch · enemy-tier: 3 · puzzle-tier: 3 · spoiler: story_
+_source: deep-research cascade 2026-09-28 · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
 
 Aggregated story-tier (`spoiler: story`, `category: lore`) beats, by chapter. Hidden by default -- the persona surfaces this file only when the player's dials are at `story` tier (enemy-tier 3 or puzzle-tier 3) or the player explicitly opts in.
 

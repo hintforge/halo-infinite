@@ -3,7 +3,7 @@
 **status:** research-integrated <!-- scaffold | research-integrated | live-observed | reconciled -->
 **last_reconciled:** 2026-11-24
 
-_source: deep-research cascade 2026-09-28 · capture: web_fetch · enemy-tier: 2 · puzzle-tier: 1 · spoiler: late-game_
+_source: deep-research cascade 2026-09-28 · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
 
 Build content is advice/interpretation, not verifiable claims, per `claim_format.md` -- no per-line metadata below except where a build recommendation is tied to a specific spoiler-tagged fight.
 

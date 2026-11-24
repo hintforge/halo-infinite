@@ -8,7 +8,7 @@
 **status:** research-integrated <!-- scaffold | research-integrated | live-observed | reconciled -->
 **last_reconciled:** 2026-11-24
 
-_source: deep-research cascade 2026-09-28 (P1/P2 pointers; P3 strategy) · capture: web_fetch. Aggregated from the corpus claims carrying `entity: chak_lok` -- not composed from the raw research result. · enemy-tier: 2 · puzzle-tier: 1 · spoiler: late-game_
+_source: deep-research cascade 2026-09-28 (P1/P2 pointers; P3 strategy) · capture: web_fetch. Aggregated from the corpus claims carrying `entity: chak_lok` -- not composed from the raw research result. · enemy-tier: 1 · puzzle-tier: 0 · spoiler: progression_
 
 **Why this file exists (promoted at P3, model analysis -- 2026-09-28):** P1 and P2 gave Chak 'Lok one line each, so he stayed generic. P3 gave a full paragraph of strategy from two sources plus an achievement bound to his kill, which meets the named-individual rule's "paragraph of strategy detail" test. The P3 result itself recommended promoting only Tovarus/Hyperius; extending the rule to him is this session's call.
 
@@ -40,7 +40,7 @@ Jump to dodge his sword lunge; timing matters. Stick the Threat Sensor (picked u
 
 ## Fight detail (doctor pass 2026-10-11)
 
-_source: web research 2026-10-11, pages opened: samurai-gamers.com/halo-infinite/chak-lok-boss-guide/, gamerguides.com/halo-infinite/guide/bosses/main-story/how-to-defeat-chak-lok, diamondlobby.com/halo/infinite/how-to-beat-chaklok/. All launch-era guides that may echo each other; medium confidence. Quotes are as the pages word them. · enemy-tier: 1 · puzzle-tier: 0 · spoiler: progression_
+_source: web research 2026-10-11, pages opened: samurai-gamers.com/halo-infinite/chak-lok-boss-guide/, gamerguides.com/halo-infinite/guide/bosses/main-story/how-to-defeat-chak-lok, diamondlobby.com/halo/infinite/how-to-beat-chaklok/. All launch-era guides that may echo each other; medium confidence. Quotes are as the pages word them. · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
 
 - **Where it starts:** Gamer Guides: after the tower's collectibles, "you can continue upward until you reach the torture room" at the top, "Here you'll encounter the Elite Brute named Chak 'Lok" (the page's own wording). Diamond Lobby: "The battle starts with Chak'Lok's introduction" and calls the arena a "small room". Samurai Gamers gives no start or layout. [spoiler: progression · enemy-tier: 1 · puzzle-tier: 0 · confidence: medium · Confirmed: 2 sources, 1 language · class:community-guide · entity: chak_lok]
 - **Placed in the arena:** Shock Coils "near each corner of the small room" (Diamond Lobby); Samurai Gamers: "pick up a Shock Coil from corners quickly" and "pick up an electric Dynamo Grenade around the area to stun the boss first". Weapon racks "on the edges of the torture room" holding the Ravager ("One of the most effective"), a shotgun and others (Gamer Guides). Diamond Lobby: two kinetic ammo refills come before the top of the Tower, so save ammo for the boss. No exact rack or coil positions on any page. [spoiler: progression · enemy-tier: 1 · puzzle-tier: 0 · confidence: medium · Confirmed: 3 sources, 1 language · class:community-guide · entity: chak_lok]

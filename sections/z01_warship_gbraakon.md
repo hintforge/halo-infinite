@@ -3,7 +3,7 @@
 **status:** research-integrated <!-- scaffold | research-integrated | live-observed | reconciled -->
 **last_reconciled:** 2026-11-24
 
-_source: deep-research cascade 2026-09-28 · capture: web_fetch · enemy-tier: 3 · puzzle-tier: 3 · spoiler: story_
+_source: deep-research cascade 2026-09-28 · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
 
 Opening mission. Chief is recovered adrift by Echo 216 and fights through a Banished warship to reach the ring. [spoiler: none · enemy-tier: 0 · puzzle-tier: 0 · entity: echo_216 · entity-status: friendly] (Echo 216's presence is visible from the very start; the cutscene content itself is `story` -- see `../npcs/echo_216.md`)
 

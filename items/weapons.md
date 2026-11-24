@@ -15,7 +15,7 @@ _source: deep-research cascade 2026-09-28 · capture: web_fetch_
 
 ### What each base weapon does (web research 2026-10-09)
 
-_source: web research 2026-10-09, each weapon's Halopedia page (https://www.halopedia.org/<page>, pages named in the last column), read by a summarising fetch tool; Halopedia mixes campaign and multiplayer in its Infinite sections, so mechanism only, no numbers · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: progression_
+_source: web research 2026-10-09, each weapon's Halopedia page (https://www.halopedia.org/<page>, pages named in the last column), read by a summarising fetch tool; Halopedia mixes campaign and multiplayer in its Infinite sections, so mechanism only, no numbers · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
 
 [spoiler: none · enemy-tier: 0 · puzzle-tier: 0 · confidence: medium · Single source per row · class:community-wiki]
 
@@ -77,7 +77,7 @@ Striker Sidekick, Longshot Assault Rifle, Convergence Bulldog, Impact Commando, 
 
 ### Variant in-game descriptions (web research 2026-10-09)
 
-_source: web research 2026-10-09, Halopedia "Special weapons (Halo Infinite)" (https://www.halopedia.org/Special_weapons_(Halo_Infinite)), quoting each weapon's in-game description; Alcast HQ and Samurai-gamers via search summary for the conflicts noted · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: progression_
+_source: web research 2026-10-09, Halopedia "Special weapons (Halo Infinite)" (https://www.halopedia.org/Special_weapons_(Halo_Infinite)), quoting each weapon's in-game description; Alcast HQ and Samurai-gamers via search summary for the conflicts noted · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
 
 Campaign descriptions, quoted. Story-boss weapons on the same page are left out on purpose (story spoilers). [spoiler: progression · enemy-tier: 0 · puzzle-tier: 0 · confidence: medium · Single source (community wiki quoting in-game text) · class:community-wiki]
 
@@ -108,7 +108,7 @@ Campaign descriptions, quoted. Story-boss weapons on the same page are left out 
 
 ### How the variants play (web research 2026-10-09)
 
-_source: web research 2026-10-09: per-variant Halopedia pages (https://www.halopedia.org/<Variant_Name>, read through a summarising fetch tool); Kotaku, "What Halo Infinite's Weapon Variants Actually Do" (https://kotaku.com/what-halo-infinite-s-weapon-variants-actually-do-1848362095, Dec 2021, one author's opinions); r/halo "Thoughts on the campaign weapon sandbox?" (https://www.reddit.com/r/halo/comments/rxqkbp/) · capture: web_fetch. Practitioner opinion on the campaign variants is thin: Kotaku is the only multi-weapon campaign review found; no campaign opinions were found for the Valor variants; a large Reddit variant guide was multiplayer-only and dropped. Numbers left out (Halopedia mixes modes). · enemy-tier: 0 · puzzle-tier: 0 · spoiler: progression_
+_source: web research 2026-10-09: per-variant Halopedia pages (https://www.halopedia.org/<Variant_Name>, read through a summarising fetch tool); Kotaku, "What Halo Infinite's Weapon Variants Actually Do" (https://kotaku.com/what-halo-infinite-s-weapon-variants-actually-do-1848362095, Dec 2021, one author's opinions); r/halo "Thoughts on the campaign weapon sandbox?" (https://www.reddit.com/r/halo/comments/rxqkbp/) · capture: web_fetch. Practitioner opinion on the campaign variants is thin: Kotaku is the only multi-weapon campaign review found; no campaign opinions were found for the Valor variants; a large Reddit variant guide was multiplayer-only and dropped. Numbers left out (Halopedia mixes modes). · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
 
 [spoiler: progression · enemy-tier: 0 · puzzle-tier: 0 · confidence: medium (wiki mechanism) / low (Kotaku opinion, single source) · class:community-wiki + editorial-en]
 
@@ -143,7 +143,7 @@ A detached Scorpion tank cannon sits on a chunk of Infinity hull northeast of Ou
 
 ## Field weapon finds, carry limits, and FOB storage (web research 2026-09-28)
 
-_source: web research 2026-09-28 (gamepressure.com combat/weapons page; GameRevolution, Twinfinite, GamesRadar FOB guides via search summaries; Halopedia "Legendary variant weapons") · enemy-tier: 1 · puzzle-tier: 0 · spoiler: progression_
+_source: web research 2026-09-28 (gamepressure.com combat/weapons page; GameRevolution, Twinfinite, GamesRadar FOB guides via search summaries; Halopedia "Legendary variant weapons") · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
 
 - **You carry 2 standard weapons plus 1 heavy at a time.** Gamepressure: "you cannot store all weapons you find in the game world in the hero's inventory." No source found describes any way to bank a field weapon at a FOB or mark a weapon cache on the map. This is an absence claim from a small search, not a proof. [spoiler: none · enemy-tier: 0 · puzzle-tier: 0 · confidence: medium · Single source (gamepressure) plus absence in 3 other guides -- verify · class:editorial-en]
 - **What replaces storage is the FOB rack:** every weapon you have unlocked (Valor for UNSC, HVT kills for Banished variants) can be spawned again at any captured FOB, free and unlimited, and stays unlocked permanently. Gamepressure adds that field weapons sit on racks or drop from enemies and "most can be found anytime." [spoiler: none · enemy-tier: 0 · puzzle-tier: 0 · confidence: high (rack behavior, matches `mechanics.md`) / medium (field-rack availability, single source)]
