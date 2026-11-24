@@ -1,9 +1,9 @@
 # Outpost Tremonius (z03)
 
 **status:** research-integrated <!-- scaffold | research-integrated | live-observed | reconciled -->
-**last_reconciled:** 2026-09-28
+**last_reconciled:** 2026-11-24
 
-_source: deep-research cascade 2026-09-28 · capture: web_fetch_
+_source: deep-research cascade 2026-09-28 · capture: web_fetch · enemy-tier: 3 · puzzle-tier: 3 · spoiler: story_
 
 The gateway to the surface: an interior stretch, the door out onto the ring, then the outpost clear and the Pelican. [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1]
 

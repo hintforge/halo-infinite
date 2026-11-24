@@ -1,9 +1,9 @@
 # The Tower (z04)
 
 **status:** research-integrated <!-- scaffold | research-integrated | live-observed | reconciled -->
-**last_reconciled:** 2026-09-28
+**last_reconciled:** 2026-11-24
 
-_source: deep-research cascade 2026-09-28 · capture: web_fetch_
+_source: deep-research cascade 2026-09-28 · capture: web_fetch · enemy-tier: 3 · puzzle-tier: 3 · spoiler: story_
 
 Chief follows a UNSC signal into a Banished stronghold. [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1] (the "follows a UNSC signal" framing is `story`-tier narrative color; the destination-is-a-Banished-stronghold fact is `progression`)
 
@@ -27,7 +27,7 @@ Threat Sensor is picked up here, beside a soldier's helmet -- **Visionary**. See
 
 ## Roof access and core count (web research 2026-09-28)
 
-_source: web research 2026-09-28 (The Loadout Spartan Core page; a search summary of a roof-climb guide whose page could not be fetched; TheGamer second-region core page)_
+_source: web research 2026-09-28 (The Loadout Spartan Core page; a search summary of a roof-climb guide whose page could not be fetched; TheGamer second-region core page) · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
 
 - **The roof stays reachable after the mission; there is no point of no return** (matches `nav/z04_the_tower.md`). Reaching it is a Grappleshot climb: up one of the Tower's legs past halfway, grapple onto the small pillars, then chain grapples off the metal pieces at the roof edge. Grappleshot rank 3 (Quick Shot, 40% shorter cooldown) is recommended to chain them. [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1 · confidence: low · Single source (search summary, page not fetched) -- verify · class:editorial-en]
 - **Flying to the roof is documented:** GameRant: "The easiest way to access the top of the Tower is to simply fly to it after obtaining a Banshee or Wasp." A play report (2026-09-28) says the leg climb stalls at a lip around the roof edge, which fits the sources that require Quick Shot for the last grapple. Wasp needs 2,600 Valor (`../items/upgrades.md`); Banished vehicles like the Banshee cannot be requisitioned and must be taken in the field (`../mechanics.md`). [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1 · confidence: medium · Confirmed: 2 sources (GameRant; a second search summary) · class:editorial-en]

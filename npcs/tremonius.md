@@ -6,7 +6,7 @@
 **entity-hidden:** no
 **first-encounter-zone:** z02_foundation
 **status:** research-integrated <!-- scaffold | research-integrated | live-observed | reconciled -->
-**last_reconciled:** 2026-10-11
+**last_reconciled:** 2026-11-24
 
 _source: deep-research cascade 2026-09-28 (P1/P2; placement and tactics settled at P3) · capture: web_fetch. Aggregated from the corpus claims carrying `entity: tremonius` -- see the zone files under See also._
 
@@ -41,7 +41,7 @@ Break his shield with the Pulse Carbine or an overcharged Plasma Pistol, then sw
 
 ## Fight detail (doctor pass 2026-10-11)
 
-_source: web research 2026-10-11, pages opened: samurai-gamers.com/halo-infinite/tremonius-boss-guide/, samurai-gamers.com/halo-infinite/mission-2-foundations-walkthrough/, gamerguides.com/halo-infinite/guide/bosses/main-story/how-to-defeat-tremonius. wepc.com returned HTTP 403, windowscentral.com and pcgamesn.com boss pages gave no usable text, diamondlobby.com returned 404 (none opened). All opened pages are launch-era guides and may echo each other; treated as medium confidence. Quotes are as the pages word them._
+_source: web research 2026-10-11, pages opened: samurai-gamers.com/halo-infinite/tremonius-boss-guide/, samurai-gamers.com/halo-infinite/mission-2-foundations-walkthrough/, gamerguides.com/halo-infinite/guide/bosses/main-story/how-to-defeat-tremonius. wepc.com returned HTTP 403, windowscentral.com and pcgamesn.com boss pages gave no usable text, diamondlobby.com returned 404 (none opened). All opened pages are launch-era guides and may echo each other; treated as medium confidence. Quotes are as the pages word them. · enemy-tier: 1 · puzzle-tier: 0 · spoiler: progression_
 
 - **How it starts:** you "place the power seed in the crucible to restore power to the elevator" and "deploy the Weapon to the terminal to activate it"; then "an elite Brute named Tremonius will come down and exit it with some Jackals" (Gamer Guides). Samurai Gamers' walkthrough: "Watch the cutscene. Afterwards, prepare to battle Tremonius." Its boss table gives the location as "Elevator Room". [spoiler: progression · enemy-tier: 1 · puzzle-tier: 0 · confidence: medium · Confirmed: 2 sources, 1 language · class:community-guide · entity: tremonius]
 - **Before you trigger it:** Gamer Guides: "stock up on any grenades in the area" and "make sure you have a weapon with a decent amount of ammunition in it. Ideally, you should look for a Pulse Carbine." [spoiler: progression · enemy-tier: 1 · puzzle-tier: 0 · confidence: medium · Single source -- verify · class:community-guide · entity: tremonius]

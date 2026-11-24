@@ -1,7 +1,7 @@
 # Halo Infinite -- Architecture
 
 **status:** research-integrated <!-- scaffold | research-integrated | live-observed | reconciled -->
-**last_reconciled:** 2026-10-13
+**last_reconciled:** 2026-11-24
 **research_run:** P1 (deep-research cascade), ingested 2026-09-28; P2 (navigation pass), ingested 2026-09-28; P3 (gap-fill + co-op), ingested 2026-09-28
 
 Cross-zone structural primitives. The persona reads this file for all cross-zone reasoning -- lookahead warnings (Rule 2), backtrack queries (Rule 3), reachability checks (Rule 4), locks-and-keys notifications (Rule 5). Per-zone gate lists live in `nav/<zone>.md` (18 files, one per zone-id below, created at P2) and reference this file's graph by edge ID. Position-finding prompts live in `localization.md`. Drift between this file and per-zone files is a bug; run a consistency pass after each ingestion.
@@ -57,7 +57,8 @@ vector-extensions: [nav, puzzles, npcs, optional_zones]
 | z15_silent_auditorium | Silent Auditorium | Interior, final |
 | ow_postgame | Zeta Halo (postgame) | Overworld -- whole ring reopens |
 
-**Name disambiguation (P1):** "Spire" (z07) is not "The Command Spire" (z11), and neither is one of the ~40 Banished Propaganda Towers. "Pelican Down", "Reckoning" and "Spire Stalker" are achievement names, not the places. "Armory of Reckoning" is a Banished outpost in Connections, unrelated to House of Reckoning (z14). The Tower (z04) is a single Banished stronghold, not one of the Propaganda Towers. [spoiler: late-game · enemy-tier: 0 · puzzle-tier: 2 · _source: deep-research cascade 2026-09-28 · capture: web_fetch · confidence: high] P2 adds a physical tell: the z07 Spire has a light bridge inside; The Command Spire has none (you grapple across) -- see `localization.md`. [spoiler: late-game · enemy-tier: 0 · puzzle-tier: 2 · confidence: high · Confirmed: 2 sources, 1 language]
+**Name disambiguation (P1):** "Spire" (z07) is not "The Command Spire" (z11), and neither is one of the ~40 Banished Propaganda Towers. "Pelican Down", "Reckoning" and "Spire Stalker" are achievement names, not the places. "Armory of Reckoning" is a Banished outpost in Connections, unrelated to House of Reckoning (z14). The Tower (z04) is a single Banished stronghold, not one of the Propaganda Towers. [spoiler: late-game · enemy-tier: 0 · puzzle-tier: 2 · confidence: high] P2 adds a physical tell: the z07 Spire has a light bridge inside; The Command Spire has none (you grapple across) -- see `localization.md`. [spoiler: late-game · enemy-tier: 0 · puzzle-tier: 2 · confidence: high · Confirmed: 2 sources, 1 language]
+_source: deep-research cascade 2026-09-28 · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 2 · spoiler: late-game_
 
 **Edges:**
 
@@ -91,9 +92,11 @@ vector-extensions: [nav, puzzles, npcs, optional_zones]
 | TacMap | ow_graveyards (Pelican Down arena) | replay-teleport | one-way in | Pelican Down completed | none | The guaranteed route to the island's 5 Spartan Cores; whether you can walk or fly back freely is disputed (P3) | [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1 · confidence: high · Confirmed: 2 sources, 1 language] |
 | Co-op session start | Furthest point common to all members' saves | session-spawn | n/a | Every member picks a save slot | none | Does not create edges, but can put a player who is further ahead back into an earlier world state (P3) | [spoiler: none · enemy-tier: 0 · puzzle-tier: 0 · confidence: high · Confirmed: 3 sources, 1 language] |
 
-**Lockout summary:** Every interior mission (z01, z02, z03, z06, z07, z10-z15) keeps you inside until completed. Nexus through Silent Auditorium (z10-z15) form one continuous locked chain -- once you enter Nexus, the overworld is closed until the credits roll. Separately, Pelican Down (ow_graveyards) temporarily relocks Lockdown and Connections and disables fast travel until it's complete (P2; progression-tier). No overworld content is permanently lost after the finale: full open-world access, including previously-missed audio logs and HVTs, returns once the story ends. [spoiler: late-game · enemy-tier: 0 · puzzle-tier: 2 · _source: deep-research cascade 2026-09-28 · capture: web_fetch · confidence: high · Confirmed: 5 sources]
+**Lockout summary:** Every interior mission (z01, z02, z03, z06, z07, z10-z15) keeps you inside until completed. Nexus through Silent Auditorium (z10-z15) form one continuous locked chain -- once you enter Nexus, the overworld is closed until the credits roll. Separately, Pelican Down (ow_graveyards) temporarily relocks Lockdown and Connections and disables fast travel until it's complete (P2; progression-tier). No overworld content is permanently lost after the finale: full open-world access, including previously-missed audio logs and HVTs, returns once the story ends. [spoiler: late-game · enemy-tier: 0 · puzzle-tier: 2 · confidence: high · Confirmed: 5 sources]
+_source: deep-research cascade 2026-09-28 · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 2 · spoiler: late-game_
 
-**How Mission Replay restores access (post-Winter-Update, current build):** Open the TacMap (Tab / View) -> place cursor on a completed mission or event -> Mission Options -> Replay Mission -> set difficulty and Skulls. Your equipped loadout (including late-game HVT variant weapons), unlocked equipment and upgrades carry into earlier missions, even ones set before that equipment is normally found. Anything collected during a replay (Skulls, audio logs) carries over to the current save permanently, and higher-difficulty replay completions count toward achievements. Because of this, **nothing in this corpus is treated as permanently missable** -- see `../sections/missables.md`. [spoiler: none · enemy-tier: 0 · puzzle-tier: 0 · _source: deep-research cascade 2026-09-28 · capture: web_fetch · confidence: high · Confirmed: 5 sources]
+**How Mission Replay restores access (post-Winter-Update, current build):** Open the TacMap (Tab / View) -> place cursor on a completed mission or event -> Mission Options -> Replay Mission -> set difficulty and Skulls. Your equipped loadout (including late-game HVT variant weapons), unlocked equipment and upgrades carry into earlier missions, even ones set before that equipment is normally found. Anything collected during a replay (Skulls, audio logs) carries over to the current save permanently, and higher-difficulty replay completions count toward achievements. Because of this, **nothing in this corpus is treated as permanently missable** -- see `../sections/missables.md`. [spoiler: none · enemy-tier: 0 · puzzle-tier: 0 · confidence: high · Confirmed: 5 sources]
+_source: deep-research cascade 2026-09-28 · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
 
 ### DLC
 
@@ -273,7 +276,7 @@ The overworld regions (ow_lockdown, ow_connections, ow_graveyards, ow_reformatio
 
 **Equipment is never a hard region gate** -- what's ahead is fixed by story keys (Grappleshot, Threat Sensor, Drop Wall, Thruster are practical keys only). [spoiler: none · enemy-tier: 0 · puzzle-tier: 0 · confidence: high]
 
-_source: deep-research cascade 2026-09-28 (P1 rows 1-2; P2 rows 3+) · capture: web_fetch_
+_source: deep-research cascade 2026-09-28 (P1 rows 1-2; P2 rows 3+) · capture: web_fetch · enemy-tier: 2 · puzzle-tier: 2 · spoiler: late-game_
 
 ## Cross-system dependencies
 

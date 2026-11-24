@@ -1,9 +1,9 @@
 # Grunt Birthday Party Skull -- Power Seed puzzle (Repository, z12)
 
 **status:** research-integrated <!-- scaffold | research-integrated | live-observed | reconciled -->
-**last_reconciled:** 2026-09-28
+**last_reconciled:** 2026-11-24
 
-_source: deep-research cascade 2026-09-28 · capture: web_fetch_ [spoiler: late-game · enemy-tier: 2 · puzzle-tier: 2 · achievement: Catacomb]
+_source: deep-research cascade 2026-09-28 · capture: web_fetch · enemy-tier: 2 · puzzle-tier: 2 · spoiler: late-game_ [spoiler: late-game · enemy-tier: 2 · puzzle-tier: 2 · achievement: Catacomb]
 
 ## Setup
 

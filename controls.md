@@ -1,9 +1,10 @@
 # Halo Infinite -- Controls
 
 **status:** research-integrated <!-- scaffold | research-integrated | live-observed | reconciled -->
-**last_reconciled:** 2026-09-28
+**last_reconciled:** 2026-11-24
 
-Controls reference for PC / Steam (keyboard + mouse and controller). _source: deep-research cascade 2026-09-28 · capture: web_fetch_
+Controls reference for PC / Steam (keyboard + mouse and controller).
+_source: deep-research cascade 2026-09-28 · capture: web_fetch_
 
 ## Keyboard + mouse
 

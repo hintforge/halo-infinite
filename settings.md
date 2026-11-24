@@ -1,9 +1,10 @@
 # Halo Infinite -- Settings
 
 **status:** research-integrated <!-- scaffold | research-integrated | live-observed | reconciled -->
-**last_reconciled:** 2026-09-28
+**last_reconciled:** 2026-11-24
 
-Settings that affect difficulty or comfort. _source: deep-research cascade 2026-09-28 · capture: web_fetch_
+Settings that affect difficulty or comfort.
+_source: deep-research cascade 2026-09-28 · capture: web_fetch_
 
 ## Difficulty (Easy / Normal / Heroic / Legendary) and Skulls
 
@@ -11,7 +12,7 @@ Four difficulty tiers: Easy, Normal, Heroic, Legendary. Skulls (see `items/skull
 
 ### Lowering difficulty mid-campaign (web research 2026-09-29)
 
-_source: web research 2026-09-29 (search summary of PCGamesN, GameRant, Twinfinite, TrueAchievements pages; none fetched)_
+_source: web research 2026-09-29 (search summary of PCGamesN, GameRant, Twinfinite, TrueAchievements pages; none fetched) · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
 
 - Difficulty can be changed during the campaign and the save is rewritten with the new level; progress is kept. [spoiler: none · enemy-tier: 0 · puzzle-tier: 0 · confidence: medium · Single source (search summary) -- verify · class:editorial-en]
 - Cost: lowering it fails Bare Your Fangs (Normal or higher, never lowered) for that run, and missions finished on the lower setting do not count toward Fight Hard, Die Well (every mission on Heroic). Difficulty achievements can be earned later by replaying missions on the higher setting (`nav/ow_postgame.md`). [spoiler: none · enemy-tier: 0 · puzzle-tier: 0 · confidence: medium · Single source (search summary) plus this corpus's `achievements.md` -- verify · class:editorial-en]
@@ -19,7 +20,7 @@ _source: web research 2026-09-29 (search summary of PCGamesN, GameRant, Twinfini
 
 ## Launching into the Campaign menu (web research 2026-10-09)
 
-_source: web research 2026-10-09 (search summaries of the Halo Waypoint "Guide to Halo Infinite Menus" support page and a community startup-video guide; Waypoint page fetch returned 403, so nothing was read first-hand)_
+_source: web research 2026-10-09 (search summaries of the Halo Waypoint "Guide to Halo Infinite Menus" support page and a community startup-video guide; Waypoint page fetch returned 403, so nothing was read first-hand) · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
 
 - The game opens on the Play menu; Campaign is reached from there, with a loading screen before the Campaign menu. Since Season 4 the Campaign menu runs independently of the Multiplayer experience, which is why that load exists. No setting or Steam launch option that makes Campaign the default landing screen was found in either search. [spoiler: none · enemy-tier: 0 · puzzle-tier: 0 · confidence: low · Single source (search summary) -- verify · class:official-support]
 - Closest workaround found: the logo video can be skipped by replacing or removing `intro.mp4` in the game's `videos` folder (Steam > Browse Local Files). This skips the intro only, not the menu after it. [spoiler: none · enemy-tier: 0 · puzzle-tier: 0 · confidence: low · Single source (community guide, gamepretty.com) -- verify · class:community-guide]

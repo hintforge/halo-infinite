@@ -1,9 +1,9 @@
 # The Command Spire (z11)
 
 **status:** research-integrated <!-- scaffold | research-integrated | live-observed | reconciled -->
-**last_reconciled:** 2026-09-28
+**last_reconciled:** 2026-11-24
 
-_source: deep-research cascade 2026-09-28 · capture: web_fetch_
+_source: deep-research cascade 2026-09-28 · capture: web_fetch · enemy-tier: 2 · puzzle-tier: 2 · spoiler: late-game_
 
 Not the same location as mission 7, "Spire." [spoiler: late-game · enemy-tier: 0 · puzzle-tier: 2]
 

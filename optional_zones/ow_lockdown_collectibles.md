@@ -1,12 +1,12 @@
 # Optional zone -- Lockdown (Recovery overworld) collectible sites (ow_lockdown)
 
 **status:** research-integrated <!-- scaffold | research-integrated | live-observed | reconciled -->
-**last_reconciled:** 2026-10-13
+**last_reconciled:** 2026-11-24
 **research_run:** MapGenie map-data gap-fill, ingested 2026-10-06
 
 Per-site list of every collectible marker MapGenie places in this region, grouped by the nearest FOB, outpost or landmark (parent zone `ow_lockdown` in `../nav/architecture.md`). Use it to answer "what is near FOB X" or "what's left around here" -- give the category and anchor first and the exact spot only when the player asks for it (puzzle-tier 1 = hint before answer). Totals and achievements: `../items/collectibles.md`, `../items/skulls.md`, `../items/upgrades.md`, `../items/weapons.md`.
 
-_source: MapGenie interactive map (mapgenie.io/halo-infinite/maps/zeta-halo) 2026-10-06 · capture: web_fetch · confidence: medium (single third-party source; region placement is derived from map coordinates -- nearest named anchor -- so items near a region border may belong to the neighbouring region) · category: mainline_
+_source: MapGenie interactive map (mapgenie.io/halo-infinite/maps/zeta-halo) 2026-10-06 · capture: web_fetch · confidence: medium (single third-party source; region placement is derived from map coordinates -- nearest named anchor -- so items near a region border may belong to the neighbouring region) · category: mainline · enemy-tier: 3 · puzzle-tier: 3 · spoiler: story_
 
 **55 markers:** Spartan Core 11, Skull 3, Mjolnir Armory 5, UNSC Audio Log 5, Banished Audio Log 4, Spartan Audio Log 8, Forerunner Archive 2, Armor Upgrade 1, Propaganda Tower 8, Unique Weapon 5, High Value Target 3. [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1 · confidence: medium]
 
@@ -99,7 +99,8 @@ Location text is MapGenie's wording, condensed; each row links its marker. Clear
 
 ## Approach notes (from map-site screenshots)
 
-What the spot looks like on arrival, read 2026-10-13 from the player screenshots the map site attaches to each marker and put in my own words. Hand a note out only when the player asks for the exact spot. A shot may show the approach rather than the item, and some markers have no screenshots, so a missing code here means no note, not a missing item. [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1 · confidence: low · Single source -- verify · class:screenshot-reading · _source: map-site player screenshots on each marker, read 2026-10-13 · capture: web_fetch_]
+What the spot looks like on arrival, read 2026-10-13 from the player screenshots the map site attaches to each marker and put in my own words. Hand a note out only when the player asks for the exact spot. A shot may show the approach rather than the item, and some markers have no screenshots, so a missing code here means no note, not a missing item. [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1 · confidence: low · Single source -- verify · class:screenshot-reading]
+_source: map-site player screenshots on each marker, read 2026-10-13 · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
 
 - **C4 (B2), Spartan Core, anchor Outpost Tremonius:** one screenshot, from the tunnel mouth: a long Forerunner corridor lit green, with sloped side struts. The core crate (green hologram) sits at the far end between two groups of upright green-lit panels, with small crates to either side. [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1 · confidence: low · class:screenshot-reading]
 - **K10 (C8), Blind Skull, anchor Ransom Keep:** two screenshots. The drop: from the top of a hexagon slab, the view straight down a slot between a rock face and black hexagon columns to a small stepped ledge below. The skull is at the far end of that ledge in a narrow dark alcove beside a rock wall and a cyan-lit panel. Matches the "grapple across the bridge and drop down" text in `../items/skulls.md`. [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1 · confidence: low · class:screenshot-reading]

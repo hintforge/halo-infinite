@@ -1,9 +1,9 @@
 # The Sequence / Reformation overworld (ow_reformation)
 
 **status:** research-integrated <!-- scaffold | research-integrated | live-observed | reconciled -->
-**last_reconciled:** 2026-09-28
+**last_reconciled:** 2026-11-24
 
-_source: deep-research cascade 2026-09-28 · capture: web_fetch_
+_source: deep-research cascade 2026-09-28 · capture: web_fetch · enemy-tier: 1 · puzzle-tier: 1 · spoiler: progression_
 
 [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1]
 

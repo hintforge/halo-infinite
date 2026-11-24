@@ -6,7 +6,7 @@
 **entity-hidden:** no
 **first-encounter-zone:** z14_house_of_reckoning
 **status:** research-integrated <!-- scaffold | research-integrated | live-observed | reconciled -->
-**last_reconciled:** 2026-10-13
+**last_reconciled:** 2026-11-24
 
 _source: deep-research cascade 2026-09-28 · capture: web_fetch_
 
@@ -51,7 +51,7 @@ Two-phase fight:
 
 ## Fight detail (doctor pass 2026-10-11)
 
-_source: web research 2026-10-11, pages opened: samurai-gamers.com/halo-infinite/war-chief-escharum-boss-guide/, gamerguides.com/halo-infinite/guide/bosses/main-story/how-to-defeat-escharum, ggrecon.com/guides/halo-infinite-escharum-boss-fight/, samurai-gamers.com/halo-infinite/mission-14-house-of-reckoning-walkthrough/. Launch-era guides that may echo each other; medium confidence. Quotes are as the pages word them._
+_source: web research 2026-10-11, pages opened: samurai-gamers.com/halo-infinite/war-chief-escharum-boss-guide/, gamerguides.com/halo-infinite/guide/bosses/main-story/how-to-defeat-escharum, ggrecon.com/guides/halo-infinite-escharum-boss-fight/, samurai-gamers.com/halo-infinite/mission-14-house-of-reckoning-walkthrough/. Launch-era guides that may echo each other; medium confidence. Quotes are as the pages word them. · enemy-tier: 3 · puzzle-tier: 3 · spoiler: story_
 
 - **Start:** GGRecon: "as the fight begins, he will start firing a large canon at you." Gamer Guides: "will use a powerful cannon to attack you from a distance." [spoiler: late-game · enemy-tier: 2 · puzzle-tier: 0 · confidence: medium · Confirmed: 2 sources, 1 language · class:community-guide · entity: escharum]
 - **Start (cutscene lead-in):** after the Pilot terminal cutscene, "Prepare to battle Escharum" (Samurai Gamers walkthrough). [spoiler: story · enemy-tier: 3 · puzzle-tier: 3 · category: lore · confidence: medium · Single source -- verify · class:community-guide · entity: escharum]

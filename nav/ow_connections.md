@@ -1,7 +1,7 @@
 # Nav -- Connections overworld (ow_connections)
 
 **status:** research-integrated <!-- scaffold | research-integrated | live-observed | reconciled -->
-**last_reconciled:** 2026-10-13
+**last_reconciled:** 2026-11-24
 **research_run:** P2 (deep-research cascade), ingested 2026-09-28
 
 **Type:** hub (overworld region)
@@ -46,7 +46,8 @@ To `ow_graveyards` via the Spire: `(ow_connections, z07_spire)` then `(z07_spire
 ## Optional branches / shortcuts
 
 - **Banished outposts in this region:** Horn of Abolition, Redoubt of Sundering, Armory of Reckoning, and Forge of Teash (Halopedia lists Forge of Teash as the fourth; P1's outpost table already carried it). [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1 · confidence: high (P1 + P2 agree) · Single source (P2) -- verify · class:community-wiki]
-- **Every collectible site in this region** -- `../optional_zones/ow_connections_collectibles.md` (MapGenie, 2026-10-06): each row carries its item code and grid cell (A-H by 1-9), and most items with map-site screenshots have an approach note at the end of that file. FOB and outpost cells: `../optional_zones/index.md` "Landmarks by grid cell". [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1 · confidence: medium · _source: MapGenie 2026-10-06 · capture: web_fetch_]
+- **Every collectible site in this region** -- `../optional_zones/ow_connections_collectibles.md` (MapGenie, 2026-10-06): each row carries its item code and grid cell (A-H by 1-9), and most items with map-site screenshots have an approach note at the end of that file. FOB and outpost cells: `../optional_zones/index.md` "Landmarks by grid cell". [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1 · confidence: medium]
+_source: MapGenie 2026-10-06 · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
 
 ## Common confusions
 

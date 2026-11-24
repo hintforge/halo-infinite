@@ -6,7 +6,7 @@
 **entity-hidden:** no
 **first-encounter-zone:** z14_house_of_reckoning
 **status:** research-integrated <!-- scaffold | research-integrated | live-observed | reconciled -->
-**last_reconciled:** 2026-10-11
+**last_reconciled:** 2026-11-24
 
 _source: deep-research cascade 2026-09-28 · capture: web_fetch_
 
@@ -39,7 +39,7 @@ P3 adds: turn on your flashlight to spot his cloak shimmer. Jump or grapple out 
 
 ## Fight detail (doctor pass 2026-10-11)
 
-_source: web research 2026-10-11, pages opened: samurai-gamers.com/halo-infinite/jega-rdomnai-boss-guide/, samurai-gamers.com/halo-infinite/mission-14-house-of-reckoning-walkthrough/, gamerguides.com/halo-infinite/guide/bosses/main-story/how-to-defeat-jega-rdomnai, thegamer.com/halo-infinite-jega-rdomnai-boss-guide/. Launch-era guides that may echo each other; medium confidence. Quotes are as the pages word them._
+_source: web research 2026-10-11, pages opened: samurai-gamers.com/halo-infinite/jega-rdomnai-boss-guide/, samurai-gamers.com/halo-infinite/mission-14-house-of-reckoning-walkthrough/, gamerguides.com/halo-infinite/guide/bosses/main-story/how-to-defeat-jega-rdomnai, thegamer.com/halo-infinite-jega-rdomnai-boss-guide/. Launch-era guides that may echo each other; medium confidence. Quotes are as the pages word them. · enemy-tier: 3 · puzzle-tier: 3 · spoiler: story_
 
 - **How it starts:** Samurai Gamers' walkthrough: "grappleshot to the bunker ahead and pick up the device on the ground," then "Watch the cutscene. Afterwards, prepare to battle Jega 'Rdomnai." The Gamer: "fire one or two Threat Sensors that can cover a wide area to see where 'Rdomnai is hiding." [spoiler: late-game · enemy-tier: 2 · puzzle-tier: 0 · confidence: medium · Confirmed: 2 sources, 1 language · class:community-guide · entity: jega_rdomnai]
 - **How it starts (device owner):** Gamer Guides: the fight "will begin after you've interacted with the device belonging to Echo 216." [spoiler: story · enemy-tier: 3 · puzzle-tier: 3 · category: lore · confidence: medium · Single source -- verify · class:community-guide · entity: jega_rdomnai]

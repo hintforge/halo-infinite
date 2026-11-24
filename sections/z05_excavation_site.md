@@ -1,9 +1,9 @@
 # Excavation Site (z05)
 
 **status:** research-integrated <!-- scaffold | research-integrated | live-observed | reconciled -->
-**last_reconciled:** 2026-09-28
+**last_reconciled:** 2026-11-24
 
-_source: deep-research cascade 2026-09-28 · capture: web_fetch_
+_source: deep-research cascade 2026-09-28 · capture: web_fetch · enemy-tier: 1 · puzzle-tier: 1 · spoiler: progression_
 
 Overworld mission area with a Banished mining laser and the entrance to Conservatory. [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1]
 

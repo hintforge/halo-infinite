@@ -1,9 +1,9 @@
 # House of Reckoning (z14)
 
 **status:** research-integrated <!-- scaffold | research-integrated | live-observed | reconciled -->
-**last_reconciled:** 2026-09-28
+**last_reconciled:** 2026-11-24
 
-_source: deep-research cascade 2026-09-28 · capture: web_fetch_
+_source: deep-research cascade 2026-09-28 · capture: web_fetch · enemy-tier: 3 · puzzle-tier: 3 · spoiler: story_
 
 Not the same as the achievement "Reckoning" or the Banished outpost "Armory of Reckoning" (ow_connections). [spoiler: late-game · enemy-tier: 0 · puzzle-tier: 2]
 

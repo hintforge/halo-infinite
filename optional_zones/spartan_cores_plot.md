@@ -1,9 +1,9 @@
 # Spartan Core plot -- all 45, by zone and map grid
 
 **status:** research-integrated <!-- scaffold | research-integrated | live-observed | reconciled -->
-**last_reconciled:** 2026-10-13
+**last_reconciled:** 2026-11-24
 
-_source: MapGenie interactive map (mapgenie.io/halo-infinite/maps/zeta-halo) pulled 2026-10-06 · capture: web_fetch · confidence: medium (single third-party source; zone is the nearest named anchor, so a core near a border may belong to the neighbouring zone)_
+_source: MapGenie interactive map (mapgenie.io/halo-infinite/maps/zeta-halo) pulled 2026-10-06 · capture: web_fetch · confidence: medium (single third-party source; zone is the nearest named anchor, so a core near a border may belong to the neighbouring zone) · enemy-tier: 1 · puzzle-tier: 1 · spoiler: progression_
 
 **Grid:** 0.1-unit cells on MapGenie's map coordinates, because the in-game TacMap has no grid. Columns A-H run west to east, rows 1-9 north to south. A cell letter-number is a position on that map, not something the game prints. [spoiler: none · enemy-tier: 0 · puzzle-tier: 0]
 

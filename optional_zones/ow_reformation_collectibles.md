@@ -1,12 +1,12 @@
 # Optional zone -- Reformation (The Sequence) collectible sites (ow_reformation)
 
 **status:** research-integrated <!-- scaffold | research-integrated | live-observed | reconciled -->
-**last_reconciled:** 2026-10-13
+**last_reconciled:** 2026-11-24
 **research_run:** MapGenie map-data gap-fill, ingested 2026-10-06
 
 Per-site list of every collectible marker MapGenie places in this region, grouped by the nearest FOB, outpost or landmark (parent zone `ow_reformation` in `../nav/architecture.md`). Use it to answer "what is near FOB X" or "what's left around here" -- give the category and anchor first and the exact spot only when the player asks for it (puzzle-tier 1 = hint before answer). Totals and achievements: `../items/collectibles.md`, `../items/skulls.md`, `../items/upgrades.md`, `../items/weapons.md`.
 
-_source: MapGenie interactive map (mapgenie.io/halo-infinite/maps/zeta-halo) 2026-10-06 · capture: web_fetch · confidence: medium (single third-party source; region placement is derived from map coordinates -- nearest named anchor -- so items near a region border may belong to the neighbouring region) · category: mainline_
+_source: MapGenie interactive map (mapgenie.io/halo-infinite/maps/zeta-halo) 2026-10-06 · capture: web_fetch · confidence: medium (single third-party source; region placement is derived from map coordinates -- nearest named anchor -- so items near a region border may belong to the neighbouring region) · category: mainline · enemy-tier: 1 · puzzle-tier: 2 · spoiler: late-game_
 
 **95 markers:** Spartan Core 14, Skull 3, Mjolnir Armory 13, UNSC Audio Log 10, Banished Audio Log 8, Spartan Audio Log 16, Forerunner Archive 2, Propaganda Tower 12, Unique Weapon 9, High Value Target 8. [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1 · confidence: medium]
 
@@ -156,7 +156,8 @@ Location text is MapGenie's wording, condensed; each row links its marker. Clear
 
 ## Approach notes (from map-site screenshots)
 
-What the spot looks like on arrival, read 2026-10-13 from the player screenshots the map site attaches to each marker and put in my own words. Hand a note out only when the player asks for the exact spot. A shot may show the approach rather than the item, and some markers have no screenshots, so a missing code here means no note, not a missing item. [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1 · confidence: low · Single source -- verify · class:screenshot-reading · _source: map-site player screenshots on each marker, read 2026-10-13 · capture: web_fetch_]
+What the spot looks like on arrival, read 2026-10-13 from the player screenshots the map site attaches to each marker and put in my own words. Hand a note out only when the player asks for the exact spot. A shot may show the approach rather than the item, and some markers have no screenshots, so a missing code here means no note, not a missing item. [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1 · confidence: low · Single source -- verify · class:screenshot-reading]
+_source: map-site player screenshots on each marker, read 2026-10-13 · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
 
 - **C44 (G8), Spartan Core, anchor FOB Lima:** the way in is a dirt-and-grass path running under overhanging hexagon slabs between tall stone pillars, so the "cave" is a roofed-over gap in the pillar field. The core is a UNSC crate with a green hologram on a ledge at the end, other crates stacked to its left and a hexagon-tiled floor beyond. The same cave holds the kinetic ammo refill and weapon spread reported from play (`../mechanics.md` "Ammo refills"). Two screenshots. [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1 · confidence: medium · class:screenshot-reading + play report 2026-10-13]
 - **C43 (G8), Spartan Core, anchor Riven Gate:** at the very top of a mountain, on a hexagonal pad at the summit. The core crate (green hologram) stands in a group of UNSC crates and cases, with a satellite-dish pole beside it and the ring structure filling the sky behind. One screenshot, from a few steps away. [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1 · confidence: low · class:screenshot-reading]

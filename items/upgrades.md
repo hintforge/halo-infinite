@@ -1,7 +1,7 @@
 # Items -- Upgrades
 
 **status:** research-integrated <!-- scaffold | research-integrated | live-observed | reconciled -->
-**last_reconciled:** 2026-10-13
+**last_reconciled:** 2026-11-24
 
 _source: deep-research cascade 2026-09-28 · capture: web_fetch_
 
@@ -9,7 +9,8 @@ _source: deep-research cascade 2026-09-28 · capture: web_fetch_
 
 **45 total** (corrects the Stage-0 prior of 49 -- every source checked agrees on 45, and it's exactly what fully upgrading all 5 equipment pieces costs). Each piece costs 1/2/3/3 cores across its 4 ranks = 9 cores/piece x 5 pieces = 45. 3 of the 45 are mission-bound, in Outpost Tremonius (z03); the rest are overworld, revealed by FOB capture or found by proximity. [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1 · confidence: high · Confirmed: 6 sources, 2 languages · achievement: Hidden Experience, Mjolnir Master]
 
-**Where each core is:** MapGenie places 45 core markers (matches the total). Every site, grouped by region and nearest FOB/outpost, is in `../optional_zones/<zone>_collectibles.md`; the whole-map codes C1-C45 and grid cells are in `../optional_zones/spartan_cores_plot.md`. MapGenie puts four in and around Outpost Tremonius (one in the crate straight ahead off the surface lift, one by the weapon cache just outside, one in the rock wreckage behind the lift building, one down a green-lit tunnel on the east side) and marks none of them as mission-only -- versus the "3 mission-bound in z03" above [Contradicted across sources -- whether any are lost if you leave before the outpost is cleared is unverified; Mission Replay covers z03 either way]. [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1 · confidence: medium · _source: MapGenie 2026-10-06 · capture: web_fetch_]
+**Where each core is:** MapGenie places 45 core markers (matches the total). Every site, grouped by region and nearest FOB/outpost, is in `../optional_zones/<zone>_collectibles.md`; the whole-map codes C1-C45 and grid cells are in `../optional_zones/spartan_cores_plot.md`. MapGenie puts four in and around Outpost Tremonius (one in the crate straight ahead off the surface lift, one by the weapon cache just outside, one in the rock wreckage behind the lift building, one down a green-lit tunnel on the east side) and marks none of them as mission-only -- versus the "3 mission-bound in z03" above [Contradicted across sources -- whether any are lost if you leave before the outpost is cleared is unverified; Mission Replay covers z03 either way]. [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1 · confidence: medium]
+_source: MapGenie 2026-10-06 · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
 
 Disputed alternate totals (TheGamer: 35; GIGA/DE: 28) contradict the confirmed 9-per-piece arithmetic and are treated as errors. [translated from: German · confidence: medium]
 

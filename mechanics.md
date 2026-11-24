@@ -1,9 +1,10 @@
 # Halo Infinite -- Mechanics
 
 **status:** research-integrated <!-- scaffold | research-integrated | live-observed | reconciled -->
-**last_reconciled:** 2026-09-28
+**last_reconciled:** 2026-11-24
 
-Core game-system rules. `_source: deep-research cascade 2026-09-28 · capture: web_fetch_` applies to every claim below unless a line overrides it (P1 base; P2 additions marked "(P2)").
+Core game-system rules. The source line below applies to every claim below unless a line overrides it (P1 base; P2 additions marked "(P2)").
+_source: deep-research cascade 2026-09-28 · capture: web_fetch_
 
 ## Saving and checkpoints (P2)
 
@@ -17,7 +18,7 @@ What P3 does record: the Tremonius, Bassus, Jega and Tovarus/Hyperius tactics al
 
 ## Ammo refills (web research 2026-10-11)
 
-_source: search summaries of Twinfinite "how to get more ammo" (twinfinite.net/guides/halo-infinite-how-to-get-more-ammo/) and Halopedia Ammo_printer (not opened); samurai-gamers.com Conservatory walkthrough and gamerguides.com Conservatory walkthrough, opened 2026-10-11 · capture: web_fetch_
+_source: search summaries of Twinfinite "how to get more ammo" (twinfinite.net/guides/halo-infinite-how-to-get-more-ammo/) and Halopedia Ammo_printer (not opened); samurai-gamers.com Conservatory walkthrough and gamerguides.com Conservatory walkthrough, opened 2026-10-11 · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
 
 - Ammo Crates are scattered through the game (a holographic logo sticks up from the top); hold the interact button to refill the ammo type matching the weapon you hold; walking over the same weapon on the ground also refills it; ammo printers in the Armory of Reckoning side mission each hold a kinetic ammo crate. [spoiler: none · enemy-tier: 0 · puzzle-tier: 0 · confidence: low · search-summary only, pages not opened]
 - "Hardlight regenerator" ammo top-off stations in the Conservatory: three searches (2026-10-11, 2026-10-13 twice) and the two Conservatory walkthroughs found no page that names such a station in that mission; that is a gap in what the search found, not proof there is none. No source found for a "hardlight regenerator" or any Forerunner ammo-regenerator station by that name; the two walkthroughs mention only guns lying along the path, weapon racks near a door before a bridge, a Shock Rifle after a Skimmer wave, and "plenty of other weapons scattered about" after the Drop Wall. Whether such stations exist in game data was not established. [spoiler: none · enemy-tier: 0 · puzzle-tier: 0 · confidence: low · negative result, incomplete search]
@@ -25,7 +26,7 @@ _source: search summaries of Twinfinite "how to get more ammo" (twinfinite.net/g
 
 ## Damage types and enemy matchups (web research 2026-10-09)
 
-_source: web research 2026-10-09: Halopedia Weapon_types (https://www.halopedia.org/Weapon_types), Kig-Yar/Gameplay, Jiralhanae/Gameplay, Sangheili/Gameplay, Unggoy/Gameplay, Mgalekgolo/Gameplay, Shock_Rifle, Disruptor, Skewer, Sentinel_beam/Gameplay; samurai-gamers.com/halo-infinite/weapon-damage-types; gfinityesports.com/article/best-weapons-campaign; Twinfinite, Windows Central, Gamer Guides and Halopedia Regulator_Sentinel / Sentinel_launcher via search summary only (pages 403 or not fetched) · capture: web_fetch. Halopedia mixes campaign and multiplayer; mechanism only, no numbers._
+_source: web research 2026-10-09: Halopedia Weapon_types (https://www.halopedia.org/Weapon_types), Kig-Yar/Gameplay, Jiralhanae/Gameplay, Sangheili/Gameplay, Unggoy/Gameplay, Mgalekgolo/Gameplay, Shock_Rifle, Disruptor, Skewer, Sentinel_beam/Gameplay; samurai-gamers.com/halo-infinite/weapon-damage-types; gfinityesports.com/article/best-weapons-campaign; Twinfinite, Windows Central, Gamer Guides and Halopedia Regulator_Sentinel / Sentinel_launcher via search summary only (pages 403 or not fetched) · capture: web_fetch. Halopedia mixes campaign and multiplayer; mechanism only, no numbers. · enemy-tier: 1 · puzzle-tier: 0 · spoiler: progression_
 
 **Damage types** [spoiler: none · enemy-tier: 0 · puzzle-tier: 0 · confidence: medium · class:community-wiki + editorial-en]
 - Kinetic: strong on unshielded health and headshots; weak on energy shields; an enemy's hand-held shield is almost impervious to it.
@@ -78,7 +79,9 @@ A captured FOB grants: a fast-travel point, 4 weapon spawners, 1 vehicle spawner
 
 A Propaganda Tower is a small optional Banished broadcast tower; its glowing yellow middle is the weak point and acts like a power source. Melee it, or hit it with explosives or a vehicle, and it blows up: Gfinity says melee leaves you slightly damaged by the blast. Each destroyed tower gives 10 Valor; the first gives Please Shut Up, all ~40 give Off the Air. Not to be confused with the three much larger Banished anti-air guns on the Pelican Down island, which cannot be shot down from the ground: you ride the gravity lift, use the console to expose the core, then destroy the core (`nav/ow_graveyards.md`).
 
-**Propaganda Totems (a separate, bigger structure; observed in play 2026-10-12, Pelican Down island):** a tall red Banished totem with a group of guards gathered around it and no glowing center. Halopedia: totems are Banished-built and broadcast pre-recorded speeches from Atriox; eight stand in the open world, one of them west of the north anti-air gun on Pelican Down (the other seven are southeast of Ransom Keep, southeast of Indiana Squad near a Mjolnir Armory, east of FOB Delta, southwest of the eastern beacon, south of FOB Hotel, west of Repository, plus one the page does not list); a lighting artist who worked on them says some are guarded by Brutes. No source found says whether a totem can be destroyed or what it gives; players report meeting them in the earlier areas too, with no obvious way to blow one up, and a Brute shouting out of each one (Halopedia names Atriox as the speaker; Atriox is the Brute warlord who leads the Banished, so the Brute heard is that speaker -- no conflict). Not the ~40 Propaganda Towers above. [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1 · confidence: medium · Confirmed: 2 sources, 1 language · _source: web research 2026-10-12, halopedia.org/Propaganda_totem and Tyler Klimek ArtStation project (artstation.com/projects/5BeoAO)_] [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1 · confidence: medium · Single source -- verify · class:community-guide · _source: GGRecon snippet (page itself returned 410), Gfinity, Halopedia propaganda tower page_]
+**Propaganda Totems (a separate, bigger structure; observed in play 2026-10-12, Pelican Down island):** a tall red Banished totem with a group of guards gathered around it and no glowing center. Halopedia: totems are Banished-built and broadcast pre-recorded speeches from Atriox; eight stand in the open world, one of them west of the north anti-air gun on Pelican Down (the other seven are southeast of Ransom Keep, southeast of Indiana Squad near a Mjolnir Armory, east of FOB Delta, southwest of the eastern beacon, south of FOB Hotel, west of Repository, plus one the page does not list); a lighting artist who worked on them says some are guarded by Brutes. No source found says whether a totem can be destroyed or what it gives; players report meeting them in the earlier areas too, with no obvious way to blow one up, and a Brute shouting out of each one (Halopedia names Atriox as the speaker; Atriox is the Brute warlord who leads the Banished, so the Brute heard is that speaker -- no conflict). Not the ~40 Propaganda Towers above. [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1 · confidence: medium · Confirmed: 2 sources, 1 language] [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1 · confidence: medium · Single source -- verify · class:community-guide]
+_source: web research 2026-10-12, halopedia.org/Propaganda_totem and Tyler Klimek ArtStation project (artstation.com/projects/5BeoAO) · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
+_source: GGRecon snippet (page itself returned 410), Gfinity, Halopedia propaganda tower page · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
 
 ## High Value Targets (HVTs) and variant weapons
 
@@ -129,7 +132,7 @@ Named bosses/commanders that do **not** carry a per-entity `npcs/` file (one-lin
 
 ### Enemy reinforcements at Banished outposts (web research 2026-10-09)
 
-_source: web research 2026-10-09 (Gamerguides outpost pages, Halopedia Banished outpost and Forward Operating Base pages; six searches and six fetches found no source on the question below; only playing it settles it)_
+_source: web research 2026-10-09 (Gamerguides outpost pages, Halopedia Banished outpost and Forward Operating Base pages; six searches and six fetches found no source on the question below; only playing it settles it) · enemy-tier: 1 · puzzle-tier: 0 · spoiler: progression_
 - Tip from a search summary (Twinfinite, not fetched): the plasma cannons on enemy reinforcement dropships can be shot off and picked up to use. [spoiler: none · enemy-tier: 0 · puzzle-tier: 0 · confidence: low · Single source (search summary) -- verify · class:community-guide]
 
 - **Do destroyed dropships stop more reinforcements?** No source found says so, and none says the opposite. [Unconfirmed -- no source] [spoiler: none · enemy-tier: 0 · puzzle-tier: 0 · confidence: low]

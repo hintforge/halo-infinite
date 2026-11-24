@@ -1,7 +1,7 @@
 # Optional zones -- Index
 
 **status:** research-integrated <!-- scaffold | research-integrated | live-observed | reconciled -->
-**last_reconciled:** 2026-10-13
+**last_reconciled:** 2026-11-24
 **research_run:** P2 (deep-research cascade), ingested 2026-09-28; P3 reviewed 2026-09-28 (no per-site data); MapGenie map-data gap-fill ingested 2026-10-06 (per-region collectible sites)
 
 Side content keyed to parent zone IDs in `../nav/architecture.md`. P2 supplies a per-region **roster** (which FOBs and outposts sit in which overworld zone). **Collectible sites per region** (every core, Skull, locker, log, artifact, tower, unique weapon and HVT marker, grouped by nearest FOB/outpost) are in the four `<zone>_collectibles.md` files below (MapGenie, 2026-10-06). Outpost objectives and HVT arena walkthroughs are still not covered. HVT locations and variant weapons live in `../items/weapons.md`; Skull sites in `../items/skulls.md`.
@@ -24,7 +24,8 @@ Location anchors for every FOB: `../nav/architecture.md` "Fast-travel network". 
 
 ## Landmarks by grid cell
 
-Where every FOB, Banished facility and Forerunner facility the map site marks sits on the A-H by 1-9 grid (defined in `spartan_cores_plot.md`; the in-game TacMap prints no grid). Use it to turn "what is near FOB Lima" into a cell and then into the item rows with that cell in the region files. Within each kind the rows run in map reading order (north to south, then west to east). The three "Gun Battery" rows are the island's AA guns; the data does not say which is which. Added 2026-10-13 from the map site's landmark data (positions in MapGenie's coordinates, pulled 2026-10-06); positions are map-site coordinates, medium confidence. [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1 · confidence: medium · _source: MapGenie interactive map 2026-10-06 · capture: web_fetch_]
+Where every FOB, Banished facility and Forerunner facility the map site marks sits on the A-H by 1-9 grid (defined in `spartan_cores_plot.md`; the in-game TacMap prints no grid). Use it to turn "what is near FOB Lima" into a cell and then into the item rows with that cell in the region files. Within each kind the rows run in map reading order (north to south, then west to east). The three "Gun Battery" rows are the island's AA guns; the data does not say which is which. Added 2026-10-13 from the map site's landmark data (positions in MapGenie's coordinates, pulled 2026-10-06); positions are map-site coordinates, medium confidence. [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1 · confidence: medium]
+_source: MapGenie interactive map 2026-10-06 · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
 
 | Landmark | Kind | Cell | Tags |
 |---|---|---|---|
