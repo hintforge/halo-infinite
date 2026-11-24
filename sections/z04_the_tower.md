@@ -6,6 +6,7 @@
 _source: deep-research cascade 2026-09-28 · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
 
 Chief follows a UNSC signal into a Banished stronghold. [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1] (the "follows a UNSC signal" framing is `story`-tier narrative color; the destination-is-a-Banished-stronghold fact is `progression`)
+_source: deep-research cascade 2026-09-28 · capture: web_fetch · enemy-tier: 3 · puzzle-tier: 3 · spoiler: story_
 
 ## Boss
 

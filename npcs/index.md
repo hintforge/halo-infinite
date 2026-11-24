@@ -23,10 +23,12 @@ One row per entity. Columns: `entity-id` (the slug used by the `entity:` overlay
 | [despondent_pyre](despondent_pyre.md) | Despondent Pyre | friendly | research-integrated | z06_conservatory | no |
 | [echo_216](echo_216.md) | Echo 216 | friendly | research-integrated | z01_warship_gbraakon | no |
 | [the_weapon](the_weapon.md) | the Weapon | friendly | research-integrated | z02_foundation | no |
-| [adjutant_resolution](adjutant_resolution.md) | Adjutant Resolution | hostile | research-integrated | z07_spire | no |
+| [adjutant_resolution](adjutant_resolution.md) | Adjutant Resolution | hostile | research-integrated | z07_spire | no [spoiler: progression · enemy-tier: 1 · puzzle-tier: 0] |
 | [chak_lok](chak_lok.md) | Chak 'Lok | hostile | research-integrated | z04_the_tower | no |
 | [bassus](bassus.md) | Bassus | hostile | research-integrated | z05_excavation_site | no |
 | [tovarus_hyperius](tovarus_hyperius.md) | Tovarus and Hyperius (one combined entity) | hostile | research-integrated | ow_graveyards | no |
+
+_source: deep-research cascade 2026-09-28 (P2), as aggregated in adjutant_resolution.md · capture: web_fetch · enemy-tier: 1 · puzzle-tier: 0 · spoiler: progression_
 
 ## No entity overlay (deliberate; P1, re-checked P2 and P3 2026-09-28)
 
@@ -34,7 +36,8 @@ Named hostiles that appear in research but do **not** get a per-entity file, bec
 
 - All 15 named High Value Targets (Inka 'Saham, Thav 'Sebarim, Okro 'Vagaduun, Bipbap, Briglard, Barroth, Zeretus, Balkarus, En'Geddon, Ik'Novus the Devourer, Arthoc, Writh Kul, Skimmer Patrol/Alpha, Myriad, Ordo 'Mal) -- each has only a location/variant/behaviour table row. See `../items/weapons.md`.
 - **Promoted at P3 (model analysis -- 2026-09-28):** Chak 'Lok, Bassus, and Hyperius/Tovarus. P3 gave each a full paragraph of strategy (two sources for Chak 'Lok, four for Bassus, six-plus dedicated guides for the pair), which is the named-individual rule's "paragraph of strategy detail" test. The P3 result itself recommended only the pair; extending the same test to Chak 'Lok and Bassus is this session's call. Hyperius and Tovarus share one file, `tovarus_hyperius`, because they are fought as a unit. See [chak_lok](chak_lok.md), [bassus](bassus.md), [tovarus_hyperius](tovarus_hyperius.md).
-- **Promoted at P2:** Adjutant Resolution -- still almost no strategy detail, but P2 shows him recurring across three missions (Spire, The Command Spire, Silent Auditorium) with a changing relationship, which is the rule's "recurring named antagonist" case. See [adjutant_resolution](adjutant_resolution.md). (model analysis -- 2026-09-28)
+- **Promoted at P2:** Adjutant Resolution -- still almost no strategy detail, but P2 shows him recurring across three missions (Spire, The Command Spire, Silent Auditorium) with a changing relationship, which is the rule's "recurring named antagonist" case. See [adjutant_resolution](adjutant_resolution.md). (model analysis -- 2026-09-28) [spoiler: story · enemy-tier: 3 · puzzle-tier: 3]
+_source: deep-research cascade 2026-09-28 (P2), as aggregated in adjutant_resolution.md · capture: web_fetch · enemy-tier: 3 · puzzle-tier: 3 · spoiler: story_
 
 > **Design note (zipper, 2026-09-29):** per-entity files repeat, in summary, claims that also live in `../sections/` and `../nav/` zone files. That is the entity-overlay design (primary home plus an aggregated summary with a cross-ref); do not merge them.
 

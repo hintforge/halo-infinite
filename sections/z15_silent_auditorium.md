@@ -3,7 +3,7 @@
 **status:** research-integrated <!-- scaffold | research-integrated | live-observed | reconciled -->
 **last_reconciled:** 2026-11-24
 
-_source: deep-research cascade 2026-09-28 · capture: web_fetch · enemy-tier: 3 · puzzle-tier: 3 · spoiler: story_
+_source: deep-research cascade 2026-09-28 · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
 
 Final mission. [spoiler: story · enemy-tier: 3 · puzzle-tier: 3]
 

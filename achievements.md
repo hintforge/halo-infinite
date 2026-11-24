@@ -272,8 +272,9 @@ _source: Steam global achievements list (fetched 2026-09-27); deep-research casc
 - **enemy-tier:** 1
 - **puzzle-tier:** 0
 - **spoiler:** progression
-- **notes:** The bare trigger is progression-tier; the hidden NAME implies the two bosses are siblings, a relationship reveal gated `story` (see `sections/story_notes.md`).
 _source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 1 · puzzle-tier: 0 · spoiler: progression_
+- **notes:** The bare trigger is progression-tier; the hidden NAME implies the two bosses are siblings, a relationship reveal gated `story` (see `sections/story_notes.md`).
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 3 · puzzle-tier: 3 · spoiler: story_
 
 ### Light the Way
 - **id:** Light the Way
@@ -431,8 +432,9 @@ _source: Steam global achievements list (fetched 2026-09-27); deep-research casc
 - **enemy-tier:** 0
 - **puzzle-tier:** 0
 - **spoiler:** none
-- **notes:** Steam-forum consensus calls the two red Hunters in Silent Auditorium the hardest Legendary encounter -- see `sections/z15_silent_auditorium.md`. [Single source, verify · class:forum]
 _source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
+- **notes:** Steam-forum consensus calls the two red Hunters in Silent Auditorium the hardest Legendary encounter -- see `sections/z15_silent_auditorium.md`. [Single source, verify · class:forum]
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 2 · puzzle-tier: 0 · spoiler: late-game_
 
 ### Headmaster
 - **id:** Headmaster

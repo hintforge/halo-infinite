@@ -28,7 +28,9 @@ Her retrieval is the objective of the entire Foundation mission. [spoiler: story
 
 ## Achievements
 
-- **Together. Again?** (hidden, with a question mark) -- unlocks on retrieving her in Foundation. **Do not confuse with "Together. Again."** (no question mark), which is House of Reckoning's Echo-216-rescue achievement -- see `../npcs/echo_216.md`. [spoiler: progression (trigger) · enemy-tier: 0 · puzzle-tier: 1 · achievement: Together. Again? [S]]
+- **Together. Again?** (hidden, with a question mark) -- unlocks on retrieving her in Foundation. [spoiler: progression (trigger) · enemy-tier: 0 · puzzle-tier: 1 · achievement: Together. Again? [S]]
+  **Do not confuse with "Together. Again."** (no question mark), which is House of Reckoning's Echo-216-rescue achievement -- see `../npcs/echo_216.md`. [spoiler: story · enemy-tier: 3 · puzzle-tier: 3 · achievement: Together. Again. [S]]
+_source: deep-research cascade 2026-09-28 · capture: web_fetch · enemy-tier: 3 · puzzle-tier: 3 · spoiler: story_
 
 Full entry: `../achievements.md`.
 

@@ -25,10 +25,13 @@ Three sub-types: UNSC, Banished, Spartan -- **104 in total: 37 UNSC / 28 Banishe
 | The Sequence (ow_reformation) | -- | 4 (Archaeological Findings at the beacons) | -- | [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1 · confidence: medium · Confirmed: 2 sources, 1 language] |
 | Nexus (z10) | 2 | -- | -- | [spoiler: late-game · enemy-tier: 0 · puzzle-tier: 2 · confidence: high] |
 | Repository (z12) | 2 (both near the mission's end) | -- | -- | [spoiler: late-game · enemy-tier: 0 · puzzle-tier: 2 · confidence: high] |
-| House of Reckoning (z14) | 1 (northwest corner, first Basic Training room) | 2 (one before the Jega 'Rdomnai fight, one behind Echo 216) | -- | [spoiler: late-game · enemy-tier: 0 · puzzle-tier: 2 · confidence: high · entity: jega_rdomnai, echo_216] -- the "behind Echo 216" log placement implies Echo's captivity, gated `story` on `entity: echo_216`, see `../npcs/echo_216.md` |
+| House of Reckoning (z14) | 1 (northwest corner, first Basic Training room) | 2 (one before the Jega 'Rdomnai fight; the other is placed in the line below) | -- | [spoiler: late-game · enemy-tier: 0 · puzzle-tier: 2 · confidence: high · entity: jega_rdomnai] |
 
 > see npcs/jega_rdomnai.md for full summary
 > see npcs/echo_216.md for full summary
+
+House of Reckoning (z14), second Banished log: one behind Echo 216 -- the "behind Echo 216" log placement implies Echo's captivity, gated `story` on `entity: echo_216`, see `../npcs/echo_216.md`. [spoiler: story · enemy-tier: 3 · puzzle-tier: 3 · confidence: high · entity: echo_216]
+_source: MapGenie 2026-10-06 · capture: web_fetch · enemy-tier: 3 · puzzle-tier: 3 · spoiler: story_
 
 **Spire (z07) resolved 2026-10-11:** two collectibles, a UNSC audio log and a Spartan Core, both in the open world at the base of the Spire, outside the interior; none found inside the interior. Detail and sources: `../sections/z07_spire.md` "Collectibles"; map rows: `../optional_zones/ow_connections_collectibles.md` "Near Spire". [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1 · confidence: medium · Confirmed: 3 sources, 1 language · _source: web research 2026-10-11 (GGRecon, Gamer Guides) + MapGenie 2026-10-06_]
 
