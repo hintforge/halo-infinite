@@ -276,7 +276,7 @@ The overworld regions (ow_lockdown, ow_connections, ow_graveyards, ow_reformatio
 
 **Equipment is never a hard region gate** -- what's ahead is fixed by story keys (Grappleshot, Threat Sensor, Drop Wall, Thruster are practical keys only). [spoiler: none · enemy-tier: 0 · puzzle-tier: 0 · confidence: high]
 
-_source: deep-research cascade 2026-09-28 (P1 rows 1-2; P2 rows 3+) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
+_source: deep-research cascade 2026-09-28 (P1 rows 1-2; P2 rows 3+) · capture: web_fetch · enemy-tier: 2 · puzzle-tier: 2 · spoiler: late-game_
 
 ## Cross-system dependencies
 

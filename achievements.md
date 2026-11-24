@@ -129,7 +129,7 @@ Corpora may add their own values when none of the conventional values fit. New v
 - **puzzle-tier:** 3
 - **spoiler:** story
 - **notes:** Hidden because it's tied to the opening cutscene; the trigger itself (start the campaign) is trivial, but the name/context is gated story-tier.
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 3 · puzzle-tier: 3 · spoiler: story_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 3 · puzzle-tier: 3 · spoiler: story_
 
 ### Together. Again?
 - **id:** Together. Again?
@@ -144,7 +144,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **puzzle-tier:** 1
 - **spoiler:** progression
 - **notes:** Do not confuse with "Together. Again." (no question mark) -- a different achievement tied to Echo 216 in House of Reckoning.
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
 
 ### Ascension
 - **id:** Ascension
@@ -158,7 +158,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **enemy-tier:** 1
 - **puzzle-tier:** 0
 - **spoiler:** progression
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 1 · puzzle-tier: 0 · spoiler: progression_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 1 · puzzle-tier: 0 · spoiler: progression_
 
 ### Zeta
 - **id:** Zeta
@@ -172,7 +172,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **enemy-tier:** 0
 - **puzzle-tier:** 1
 - **spoiler:** progression
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
 
 ### Fallen
 - **id:** Fallen
@@ -186,7 +186,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **enemy-tier:** 0
 - **puzzle-tier:** 1
 - **spoiler:** progression
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
 
 ### Unearthed
 - **id:** Unearthed
@@ -200,7 +200,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **enemy-tier:** 0
 - **puzzle-tier:** 1
 - **spoiler:** progression
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
 
 ### Visionary / Grab Some Cover / Evasive Maneuvers
 - **id:** Visionary, Grab Some Cover, Evasive Maneuvers
@@ -215,7 +215,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **puzzle-tier:** 1
 - **spoiler:** progression
 - **notes:** Added at P2 ingestion (2026-09-28): these three campaign names were tagged on P1 claims (`items/abilities.md`, `sections/z04_the_tower.md`, `sections/z06_conservatory.md`) but had no entry here, so P1's "every stub name is in one of the three sections" self-check was wrong by 3. Visionary -> Threat Sensor and Grab Some Cover -> Drop Wall are confirmed by Steam's own descriptions (fetched 2026-09-28); Evasive Maneuvers -> Thruster is by elimination plus P1 tagging. Drop Wall/Thruster location per P2 (Conservatory, not Excavation Site -- see `items/abilities.md` conflict note).
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
 
 ### Hunter. Killer.
 - **id:** Hunter. Killer.
@@ -229,7 +229,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **enemy-tier:** 1
 - **puzzle-tier:** 0
 - **spoiler:** progression
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 1 · puzzle-tier: 0 · spoiler: progression_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 1 · puzzle-tier: 0 · spoiler: progression_
 
 ### Pelican Down
 - **id:** Pelican Down
@@ -244,7 +244,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **puzzle-tier:** 1
 - **spoiler:** progression
 - **notes:** Name-collides with the "Spire" mission (z07) and the "Spire Stalker" achievement -- these are three different things.
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
 
 ### One Down…
 - **id:** One Down…
@@ -258,7 +258,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **enemy-tier:** 0
 - **puzzle-tier:** 1
 - **spoiler:** progression
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
 
 ### Brothers Grim
 - **id:** Brothers Grim
@@ -273,7 +273,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **puzzle-tier:** 0
 - **spoiler:** progression
 - **notes:** The bare trigger is progression-tier; the hidden NAME implies the two bosses are siblings, a relationship reveal gated `story` (see `sections/story_notes.md`).
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 1 · puzzle-tier: 0 · spoiler: progression_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 1 · puzzle-tier: 0 · spoiler: progression_
 
 ### Light the Way
 - **id:** Light the Way
@@ -287,7 +287,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **enemy-tier:** 0
 - **puzzle-tier:** 1
 - **spoiler:** progression
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
 
 ### What Will It Take?
 - **id:** What Will It Take?
@@ -302,7 +302,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **puzzle-tier:** 2
 - **spoiler:** late-game
 - **notes:** The Steam flavor line ("Trust is a fragile thing, isn't it?") is a story-tier hint, gated separately in `sections/story_notes.md`; the bare mission-reached trigger is late-game (post-point-of-divergence).
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 2 · spoiler: late-game_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 2 · spoiler: late-game_
 
 ### Hear These Words!
 - **id:** Hear These Words!
@@ -316,7 +316,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **enemy-tier:** 0
 - **puzzle-tier:** 2
 - **spoiler:** late-game
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 2 · spoiler: late-game_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 2 · spoiler: late-game_
 
 ### Together. Again.
 - **id:** Together. Again.
@@ -331,7 +331,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **puzzle-tier:** 3
 - **spoiler:** story
 - **notes:** No question mark -- distinct from "Together. Again?" (Foundation, the Weapon).
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 3 · puzzle-tier: 3 · spoiler: story_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 3 · puzzle-tier: 3 · spoiler: story_
 
 ### Reckoning
 - **id:** Reckoning
@@ -345,7 +345,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **enemy-tier:** 0
 - **puzzle-tier:** 2
 - **spoiler:** late-game
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 2 · spoiler: late-game_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 2 · spoiler: late-game_
 
 ### Legends
 - **id:** Legends
@@ -359,7 +359,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **enemy-tier:** 3
 - **puzzle-tier:** 3
 - **spoiler:** story
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 3 · puzzle-tier: 3 · spoiler: story_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 3 · puzzle-tier: 3 · spoiler: story_
 
 ### Too Many Goodbyes
 - **id:** Too Many Goodbyes
@@ -373,7 +373,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **enemy-tier:** 3
 - **puzzle-tier:** 3
 - **spoiler:** story
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 3 · puzzle-tier: 3 · spoiler: story_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 3 · puzzle-tier: 3 · spoiler: story_
 
 ### Set a Fire in Your Heart
 - **id:** Set a Fire in Your Heart
@@ -387,7 +387,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **enemy-tier:** 0
 - **puzzle-tier:** 0
 - **spoiler:** none
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
 
 ## Mastery
 
@@ -403,7 +403,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **enemy-tier:** 0
 - **puzzle-tier:** 0
 - **spoiler:** none
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
 
 ### Fight Hard, Die Well
 - **id:** Fight Hard, Die Well
@@ -417,7 +417,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **enemy-tier:** 0
 - **puzzle-tier:** 0
 - **spoiler:** none
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
 
 ### A True Test of Legends
 - **id:** A True Test of Legends
@@ -432,7 +432,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **puzzle-tier:** 0
 - **spoiler:** none
 - **notes:** Steam-forum consensus calls the two red Hunters in Silent Auditorium the hardest Legendary encounter -- see `sections/z15_silent_auditorium.md`. [Single source, verify · class:forum]
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
 
 ### Headmaster
 - **id:** Headmaster
@@ -447,7 +447,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **puzzle-tier:** 0
 - **spoiler:** none
 - **notes:** Winter Update patch notes say it "will now unlock consistently"; players whose unlock failed on an earlier game version must meet the conditions again. An older Steam-forum report said choosing "Continue" from the main menu turns Skulls off; the same Winter Update notes say previously enabled Skulls no longer randomly disable when you resume via Continue, so that should not apply on the current build (whether the report predates the fix is unverified). [Single source, verify · class:forum / class:official-pr]
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
 
 ### Forza Veloce
 - **id:** Forza Veloce
@@ -462,7 +462,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **puzzle-tier:** 0
 - **spoiler:** none
 - **notes:** ~2.5 hours is reportedly achievable on Easy by grappling past fights rather than fighting them; TrueAchievements commenters report 2 to 3.5 hours on Easy with the Bandana Skull, and the HaloRuns full-game records are 52:33 on Easy and 55:14 on Legendary. [Confirmed: 3 sources, 1 language] **The "14" is an official string only:** its verbatim wording appears on Steam, Xbox, GameFAQs and Halopedia, and none of them lists the 14; guide counts are 15 (most guides; Recovery and The Tower as one) and 16 (Halopedia, Gamepressure). The list is [Hypothesis -- unverified]; the number does not change what you have to do. **Timer:** Gamepressure says it keeps running through deaths, TrueAchievements commenters say time lost to reloads does not count and pausing is fine [Contradicted across sources]. Use a fresh save in a fresh slot: before the Winter Update, gameplay time could carry over between saves in the same slot, and the update fixed that. The timer cannot be restarted on the same save. Only FOB Foxtrot is mandatory for it (gives a Mongoose for the drive to The Tower). [Single source -- verify · class:community-wiki]
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
 
 ### Gun Runner
 - **id:** Gun Runner
@@ -477,7 +477,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **puzzle-tier:** 1
 - **spoiler:** progression
 - **notes:** The Steam description shows no time limit, but TrueAchievements, Halopedia and a video walkthrough all state a 20-minute window -- assume the timer applies. [Contradicted across sources]
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
 
 ### Conservation of Momentum
 - **id:** Conservation of Momentum
@@ -491,7 +491,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **enemy-tier:** 0
 - **puzzle-tier:** 1
 - **spoiler:** progression
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
 
 ### Gatecrasher
 - **id:** Gatecrasher
@@ -506,7 +506,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **puzzle-tier:** 2
 - **spoiler:** late-game
 - **notes:** Reclassified at P3 from "unreachable" (P1 could not retrieve its description). Steam's own list gives the description and a 0.9% global unlock rate, which is a primary source; it is one of the Winter Update's achievements (not in the 24 announced, reportedly added before release). Three TrueAchievements guides and comments report it unlocking; their method is to clear the opening area and walk through the opened door within 3 minutes of spawning, ideally on Easy with the Bandana Skull and a rocket launcher carried in. [Confirmed: 2 sources (Steam list + TrueAchievements guides), 1 language · the TrueAchievements pages themselves were unreachable (HTTP 403) at ingestion, so their method text is via the P3 research result; confidence: medium]
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 2 · puzzle-tier: 2 · spoiler: late-game_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 2 · puzzle-tier: 2 · spoiler: late-game_
 
 ### Stick Around
 - **id:** Stick Around
@@ -521,7 +521,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **puzzle-tier:** 0
 - **spoiler:** progression
 - **notes:** Keep the Skewer found earlier in Foundation and fire it only once his energy shield is down. After the first run it needs a Mission Replay of Foundation.
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 1 · puzzle-tier: 0 · spoiler: progression_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 1 · puzzle-tier: 0 · spoiler: progression_
 
 ### Rapid Unscheduled Disassembly
 - **id:** Rapid Unscheduled Disassembly
@@ -536,7 +536,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **puzzle-tier:** 1
 - **spoiler:** progression
 - **notes:** Single official source (the Winter Update notes), so `confidence: medium`.
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
 
 ### Out with a Bang
 - **id:** Out with a Bang
@@ -550,7 +550,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **enemy-tier:** 1
 - **puzzle-tier:** 0
 - **spoiler:** progression
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 1 · puzzle-tier: 0 · spoiler: progression_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 1 · puzzle-tier: 0 · spoiler: progression_
 
 ### Vintage Fisticuffs
 - **id:** Vintage Fisticuffs
@@ -564,7 +564,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **enemy-tier:** 2
 - **puzzle-tier:** 0
 - **spoiler:** late-game
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 2 · puzzle-tier: 0 · spoiler: late-game_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 2 · puzzle-tier: 0 · spoiler: late-game_
 
 ### Turnabout is Fair Play
 - **id:** Turnabout is Fair Play
@@ -578,7 +578,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **enemy-tier:** 2
 - **puzzle-tier:** 0
 - **spoiler:** late-game
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 2 · puzzle-tier: 0 · spoiler: late-game_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 2 · puzzle-tier: 0 · spoiler: late-game_
 
 ### More Than He Bargained For
 - **id:** More Than He Bargained For
@@ -592,7 +592,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **enemy-tier:** 2
 - **puzzle-tier:** 0
 - **spoiler:** late-game
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 2 · puzzle-tier: 0 · spoiler: late-game_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 2 · puzzle-tier: 0 · spoiler: late-game_
 
 ### Spire Stalker
 - **id:** Spire Stalker
@@ -607,7 +607,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **puzzle-tier:** 2
 - **spoiler:** late-game
 - **notes:** Boundary call: mission-scoped weapon-restriction count. Classified mastery (restricted-method execution) rather than threshold, since the constraint (one specific weapon, one specific mission) is the point, not an open-ended count.
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 2 · spoiler: late-game_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 2 · spoiler: late-game_
 
 ### It Really Does Beat Everything
 - **id:** It Really Does Beat Everything
@@ -621,7 +621,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **enemy-tier:** 0
 - **puzzle-tier:** 1
 - **spoiler:** progression
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
 
 ### Bring Shiela Home Safely
 - **id:** Bring Shiela Home Safely
@@ -636,7 +636,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **puzzle-tier:** 2
 - **spoiler:** late-game
 - **notes:** The tank despawning or relocating can break the trigger (TrueAchievements comment). One XboxAchievements comment incorrectly attributes this achievement to House of Reckoning instead of The Road -- it belongs to The Road.
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 2 · spoiler: late-game_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 2 · spoiler: late-game_
 
 ### Whip-Riding the Ghost / Takes One to Make One
 - **id:** Whip-Riding the Ghost, Takes One to Make One
@@ -652,7 +652,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **puzzle-tier:** 0
 - **spoiler:** none
 - **notes:** Combined entry -- both names describe the same two-step interaction (board, then splatter). Boundary call: could read as discovery (non-obvious combo), classified mastery since grapple-boarding is an advertised, taught mechanic and the achievement is about executing the follow-through.
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
 
 ### Inseparable / You, Me, Same Page / Controlled Demolition / Wolves at the Doors
 - **id:** Inseparable, You, Me, Same Page, Controlled Demolition, Wolves at the Doors
@@ -668,12 +668,12 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **puzzle-tier:** 1
 - **spoiler:** progression
 - **notes:** Combined entry -- 4 distinct co-op timing achievements sharing one shape (simultaneous multi-player action within a time window). All four descriptions match the official Winter Update notes word for word, and each is corroborated by the Waypoint achievements blog, Insider Gaming, XboxAchievements and Sportskeeda [Confirmed: 5 sources, 1 language]. Deepened at P3:
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 1 · puzzle-tier: 1 · spoiler: progression_
   - **Inseparable** (20G) -- the Nexus pair (z10) or the Spire-base pair (z07) are the easiest, most controlled setups; split the pair and burst both down together within the 3 seconds. [Single source -- verify · class:editorial-en for the "easiest pair" advice]
   - **You, Me, Same Page** (20G) -- at the Excavation Site dig (z05), as placed at P2. TrueAchievements groups it with the main-story achievements and notes it is the only one there that cannot be done solo; the Waypoint co-op preview calls the Banished dig site the largest single objective the tether lets a team split across. [Confirmed: 2 sources, 1 language]
   - **Controlled Demolition** (20G) -- Ransom Keep or the Forge of Teash. The developer anecdote shows the design: one player hits the plunger switch that raises the silos while another in a Wasp destroys them.
   - **Wolves at the Doors** (20G) -- Riven Gate. Three players is the reliable setup. The two-player method: one player hits the middle switch and takes a Banshee to the near switch while the partner triggers the far switch about 5 seconds later; it "may not unlock for you this way". [Single source -- verify · class:community-wiki]
   - **Missability of the four:** none; outposts and the Nexus/Spire mission replay through Mission Replay, and the two outpost achievements need a co-op session, so plan them for a replay with three players.
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 1 · puzzle-tier: 1 · spoiler: progression_
 
 ## Collection
 
@@ -689,7 +689,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **enemy-tier:** 0
 - **puzzle-tier:** 0
 - **spoiler:** none
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
 
 ### Outpost Discovery / Bunker Buster
 - **id:** Outpost Discovery, Bunker Buster
@@ -703,7 +703,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **enemy-tier:** 0
 - **puzzle-tier:** 1
 - **spoiler:** progression
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
 
 ### Reclaimer / Resurgency
 - **id:** Reclaimer, Resurgency
@@ -717,7 +717,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **enemy-tier:** 0
 - **puzzle-tier:** 1
 - **spoiler:** progression
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
 
 ### We're On Our Way / No One Left Behind
 - **id:** We're On Our Way, No One Left Behind
@@ -732,7 +732,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **puzzle-tier:** 1
 - **spoiler:** progression
 - **notes:** Total distress-call count is [unlock-chain incomplete -- official count not retrieved by P1; P3 did not address it].
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
 
 ### Headhunter / Bloodstars' Bane
 - **id:** Headhunter, Bloodstars' Bane
@@ -746,7 +746,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **enemy-tier:** 1
 - **puzzle-tier:** 1
 - **spoiler:** progression
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 1 · puzzle-tier: 1 · spoiler: progression_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 1 · puzzle-tier: 1 · spoiler: progression_
 
 ### Who is Max Valor?
 - **id:** Who is Max Valor?
@@ -760,7 +760,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **enemy-tier:** 0
 - **puzzle-tier:** 1
 - **spoiler:** progression
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
 
 ### Dispatches From the Front / Canon Collector
 - **id:** Dispatches From the Front, Canon Collector
@@ -775,7 +775,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **puzzle-tier:** 1
 - **spoiler:** progression
 - **notes:** Total-count contradicted across sources (37 vs. 38) -- see `items/collectibles.md`.
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
 
 ### Two Sides to Every Story / Know Your Enemy
 - **id:** Two Sides to Every Story, Know Your Enemy
@@ -790,7 +790,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **puzzle-tier:** 1
 - **spoiler:** progression
 - **notes:** Total-count contradicted across sources (28 vs. 29).
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
 
 ### Infinity Down / Rubicon Protocol
 - **id:** Infinity Down, Rubicon Protocol
@@ -805,7 +805,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **puzzle-tier:** 1
 - **spoiler:** progression
 - **notes:** Total-count contradicted across sources (39 vs. 40).
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
 
 ### Hidden Experience / Mjolnir Master
 - **id:** Hidden Experience, Mjolnir Master
@@ -819,7 +819,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **enemy-tier:** 0
 - **puzzle-tier:** 1
 - **spoiler:** progression
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
 
 ### Money in the Bank / Armory Amore
 - **id:** Money in the Bank, Armory Amore
@@ -833,7 +833,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **enemy-tier:** 0
 - **puzzle-tier:** 1
 - **spoiler:** progression
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
 
 ### Eld Aficionado / Haruspis
 - **id:** Eld Aficionado, Haruspis
@@ -847,7 +847,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **enemy-tier:** 0
 - **puzzle-tier:** 1
 - **spoiler:** progression
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
 
 ### Headstrong / Catacomb
 - **id:** Headstrong, Catacomb
@@ -861,7 +861,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **enemy-tier:** 0
 - **puzzle-tier:** 1
 - **spoiler:** progression
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
 
 ### Please Shut Up / Off the Air
 - **id:** Please Shut Up, Off the Air
@@ -875,7 +875,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **enemy-tier:** 0
 - **puzzle-tier:** 1
 - **spoiler:** progression
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
 
 ### Thrusters On Full / Impervious / Big Brother / Getting Defensive / Reaching Out
 - **id:** Thrusters On Full, Impervious, Big Brother, Getting Defensive, Reaching Out
@@ -890,7 +890,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **puzzle-tier:** 0
 - **spoiler:** none
 - **notes:** Mapping resolved at P3: Impervious [Confirmed: 4 sources, 1 language], Big Brother [Confirmed: 4 sources, 1 language], Reaching Out [Confirmed: 4 sources, 1 language], Getting Defensive [Confirmed: 2 sources, 1 language]; Thrusters On Full has three sources for the description, but its name-to-description pairing is by elimination (the Steam profile pages show the description with the name clipped), so treat that one row as medium confidence. Gamepressure independently re-states "9 cores to buy all 4 upgrades" per piece. In co-op each player needs their own 9 per piece, and a core picked up by a teammate credits you only if you had not already collected it.
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
 
 ### What's Rightfully Ours / Wardens of Zeta / First Responders / Hunting Party
 - **id:** What's Rightfully Ours, Wardens of Zeta, First Responders, Hunting Party
@@ -906,7 +906,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **puzzle-tier:** 1
 - **spoiler:** progression
 - **notes:** Combined entry for 4 co-op completionist achievements mirroring their solo counterparts (Bunker Buster, Resurgency, No One Left Behind, Bloodstars' Bane). Deepened at P3 (10G / 10G / 10G / 20G in that order: What's Rightfully Ours = all FOBs, Wardens of Zeta = all seven outposts, First Responders = all distress calls, Hunting Party = all HVTs): a session marks an activity complete only if every member completed it, so the way to finish all four in one pass is for the whole group to start fresh saves and play the open world together once. Outposts, HVTs and distress calls can be replayed in co-op via Mission Replay; FOB captures are not in the replayable list ("Outposts, Targets, and Marine Events" only), so at least one member needs a fresh save for What's Rightfully Ours. [Confirmed: 3 sources, 1 language for the replay list · Hypothesis -- unverified for the FOB-on-a-fresh-save route]
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 1 · puzzle-tier: 1 · spoiler: progression_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 1 · puzzle-tier: 1 · spoiler: progression_
 
 ## Threshold
 
@@ -923,7 +923,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **puzzle-tier:** 0
 - **spoiler:** none
 - **notes:** Combined entry -- 4 achievements, one per equipment piece, sharing the identical "use N times" shape. Shield Core has no matching achievement (it's passive, no "use" action).
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
 
 ### Wait, I Can Throw Those?
 - **id:** Wait, I Can Throw Those?
@@ -937,7 +937,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **enemy-tier:** 0
 - **puzzle-tier:** 0
 - **spoiler:** none
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
 
 ### Wanna Have a Catch?
 - **id:** Wanna Have a Catch?
@@ -952,7 +952,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **puzzle-tier:** 0
 - **spoiler:** none
 - **notes:** Staggered, unshielded targets are reportedly the easiest to stick.
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
 
 ### Air Raid / Cow Catcher / Gruesome Twosome
 - **id:** Air Raid, Cow Catcher, Gruesome Twosome
@@ -968,7 +968,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **puzzle-tier:** 0
 - **spoiler:** none
 - **notes:** 10G each (P3). [Confirmed: 2 sources, 1 language]
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
 
 ### Keep It Steady / Rolling Thunder
 - **id:** Keep It Steady, Rolling Thunder
@@ -984,7 +984,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **puzzle-tier:** 0
 - **spoiler:** none
 - **notes:** 10G each (P3). Progress is shared across everyone aboard the vehicle, and both can also be done solo. [Confirmed: 2 sources, 1 language]
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
 
 ## Discovery
 
@@ -1000,7 +1000,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **enemy-tier:** 0
 - **puzzle-tier:** 1
 - **spoiler:** progression
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
 
 ### Passing the Gas
 - **id:** Passing the Gas
@@ -1015,7 +1015,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **puzzle-tier:** 0
 - **spoiler:** none
 - **notes:** Described by sources as luck-dependent (requires a Brute to throw a Grunt near you).
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
 
 ### Nosebleed
 - **id:** Nosebleed
@@ -1030,7 +1030,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **puzzle-tier:** 1
 - **spoiler:** progression
 - **notes:** [Contradicted across sources] on the exact cardinal direction. "Foxhound Squad" is treated here as a landmark reference; if it turns out to be a lore-bearing audio-log squad name, split this note to `story` tier -- worth rechecking.
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
 
 ### Wars with Friends
 - **id:** Wars with Friends
@@ -1045,7 +1045,7 @@ _source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 20
 - **puzzle-tier:** 1
 - **spoiler:** progression
 - **notes:** The Steam 100% guide notes that the first FOB capture, first distress call, and this achievement can all be completed together in one pass through ow_lockdown.
-_source: Steam achievements list (fetched 2026-09-27) + deep-research cascade 2026-09-28; see Sources below · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
+_source: Steam global achievements list (fetched 2026-09-27); deep-research cascade result (both named in Sources below) · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_
 
 ## Deferred (multiplayer, out of single-player scope)
 

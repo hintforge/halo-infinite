@@ -25,7 +25,7 @@ Despondent Pyre, Zeta Halo's caretaker AI, tries to warn Chief here and is destr
 
 ## Collectibles (web research 2026-10-11)
 
-_source: web research 2026-10-11 of https://www.halopedia.org/Conservatory (page lists no audio logs, Skulls, recordings or Spartan Cores in this mission; it names only the Drop Wall on Makovich's body and the Thruster on Sorel's body) and the P1 finding above; two guessed dedicated-collectibles pages (nightlygamingbinge.com, ggrecon.com) returned 404, so no dedicated checklist was found · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 1 · spoiler: progression_ [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1 · confidence: medium · two sources, one an encyclopedia page that does not claim to be a complete checklist]
+_source: web research 2026-10-11 of https://www.halopedia.org/Conservatory (page lists no audio logs, Skulls, recordings or Spartan Cores in this mission; it names only the Drop Wall on Makovich's body and the Thruster on Sorel's body) and the P1 finding above; two guessed dedicated-collectibles pages (nightlygamingbinge.com, ggrecon.com) returned 404, so no dedicated checklist was found · capture: web_fetch · enemy-tier: 3 · puzzle-tier: 3 · spoiler: story_ [spoiler: progression · enemy-tier: 0 · puzzle-tier: 1 · confidence: medium · two sources, one an encyclopedia page that does not claim to be a complete checklist]
 
 ## Achievements available here
 

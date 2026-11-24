@@ -18,7 +18,7 @@ What P3 does record: the Tremonius, Bassus, Jega and Tovarus/Hyperius tactics al
 
 ## Ammo refills (web research 2026-10-11)
 
-_source: search summaries of Twinfinite "how to get more ammo" (twinfinite.net/guides/halo-infinite-how-to-get-more-ammo/) and Halopedia Ammo_printer (not opened); samurai-gamers.com Conservatory walkthrough and gamerguides.com Conservatory walkthrough, opened 2026-10-11 · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
+_source: search summaries of Twinfinite "how to get more ammo" (twinfinite.net/guides/halo-infinite-how-to-get-more-ammo/) and Halopedia Ammo_printer (not opened); samurai-gamers.com Conservatory walkthrough and gamerguides.com Conservatory walkthrough, opened 2026-10-11 · capture: web_fetch · enemy-tier: 1 · puzzle-tier: 0 · spoiler: progression_
 
 - Ammo Crates are scattered through the game (a holographic logo sticks up from the top); hold the interact button to refill the ammo type matching the weapon you hold; walking over the same weapon on the ground also refills it; ammo printers in the Armory of Reckoning side mission each hold a kinetic ammo crate. [spoiler: none · enemy-tier: 0 · puzzle-tier: 0 · confidence: low · search-summary only, pages not opened]
 - "Hardlight regenerator" ammo top-off stations in the Conservatory: three searches (2026-10-11, 2026-10-13 twice) and the two Conservatory walkthroughs found no page that names such a station in that mission; that is a gap in what the search found, not proof there is none. No source found for a "hardlight regenerator" or any Forerunner ammo-regenerator station by that name; the two walkthroughs mention only guns lying along the path, weapon racks near a door before a bridge, a Shock Rifle after a Skimmer wave, and "plenty of other weapons scattered about" after the Drop Wall. Whether such stations exist in game data was not established. [spoiler: none · enemy-tier: 0 · puzzle-tier: 0 · confidence: low · negative result, incomplete search]
@@ -132,7 +132,7 @@ Named bosses/commanders that do **not** carry a per-entity `npcs/` file (one-lin
 
 ### Enemy reinforcements at Banished outposts (web research 2026-10-09)
 
-_source: web research 2026-10-09 (Gamerguides outpost pages, Halopedia Banished outpost and Forward Operating Base pages; six searches and six fetches found no source on the question below; only playing it settles it) · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
+_source: web research 2026-10-09 (Gamerguides outpost pages, Halopedia Banished outpost and Forward Operating Base pages; six searches and six fetches found no source on the question below; only playing it settles it) · enemy-tier: 2 · puzzle-tier: 2 · spoiler: late-game_
 - Tip from a search summary (Twinfinite, not fetched): the plasma cannons on enemy reinforcement dropships can be shot off and picked up to use. [spoiler: none · enemy-tier: 0 · puzzle-tier: 0 · confidence: low · Single source (search summary) -- verify · class:community-guide]
 
 - **Do destroyed dropships stop more reinforcements?** No source found says so, and none says the opposite. [Unconfirmed -- no source] [spoiler: none · enemy-tier: 0 · puzzle-tier: 0 · confidence: low]
